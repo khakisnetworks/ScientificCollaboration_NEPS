@@ -1,0 +1,26 @@
+
+SCHOLARS:
+  Total: 1192
+  NEPS: 1163 (97.6%)
+  With affiliation: 1192
+
+AFFILIATIONS:
+  Total: 353
+  Countries: 37
+
+FIELDS OF STUDY:
+  Total unique fields: 292
+  Top 5 fields:
+    - Empirische Bildungsforschung: 68
+    - Pädagogische Psychologie: 61
+    - Survey-Methodologie: 48
+    - Bildungssoziologie: 42
+    - Hochschulforschung: 37
+
+EDGES:
+  NEPS co-authorships: 5438
+  WoS co-authorships: 3664
+  
+SCHOLAR-AFFILIATION LINKS:
+  Total links: 2364
+  Avg affiliations per scholar: 1.98

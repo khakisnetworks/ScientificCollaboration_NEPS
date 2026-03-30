@@ -1,0 +1,354 @@
+affiliation_id,institution_name,city,country,part_of_neps,typ
+1,Leibniz-Institut für Bildungsverläufe (LIfBi),Bamberg,Deutschland,True,institute
+2,Otto-Friedrich-Universität Bamberg,Bamberg,Deutschland,True,university
+81,Staatsinstitut für Familienforschung an der Universität Bamberg (ifb),Bamberg,Deutschland,False,ressort
+17,Universität Pompeu Fabra,Barcelona,Spanien,False,university
+47,Universität Basel,Basel,Schweiz,False,university
+75,Universität Bayreuth,Bayreuth,Deutschland,False,university
+72,Bundesanstalt für Straßen- und Verkehrswesen (BASt),Bergisch Gladbach,Deutschland,False,ressort
+9,Deutsches Institut für Wirtschaftsforschung (DIW),Berlin,Deutschland,False,institute
+18,Freie Universität Berlin (FU),Berlin,Deutschland,False,university
+30,Humboldt-Universität zu Berlin (HU Berlin),Berlin,Deutschland,True,university
+32,Wissenschaftszentrum Berlin für Sozialforschung (WZB),Berlin,Deutschland,True,institute
+48,Technische Universität Berlin (TU Berlin),Berlin,Deutschland,False,university
+90,Institut zur Qualitätsentwicklung im Bildungswesen (IQB),Berlin,Deutschland,True,ressort
+54,Universität Bielefeld,Bielefeld,Deutschland,False,university
+50,Bundesinstitut für Berufsbildung (BIBB),Bonn,Deutschland,False,ressort
+89,Deutsches Institut für Erwachsenenbildung - Leibniz-Zentrum für Lebenslanges Lernen (DIE),Bonn,Deutschland,True,institute
+71,Johann Heinrich von Thünen-Institut (Thünen-Institut),Braunschweig,Deutschland,False,institute
+59,Technische Universität Dortmund (TU Dortmund),Dortmund,Deutschland,False,university
+88,Institut für Schulentwicklungsforschung (IFS),Dortmund,Deutschland,True,university
+14,Trinity College Dublin,Dublin,Irland,False,university
+46,Heinrich-Heine-Universität Düsseldorf (HHU),Düsseldorf,Deutschland,False,university
+44,RWI - Leibniz-Institut für Wirtschaftsforschung,Essen,Deutschland,False,institute
+15,European University Institute,Fiesole,Italien,False,institute
+85,Universität Florenz,Florenz,Italien,False,university
+3,DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation,Frankfurt am Main,Deutschland,True,institute
+22,Johann Wolfgang Goethe-Universität Frankfurt am Main,Frankfurt am Main,Deutschland,False,university
+12,University of Strathclyde,Glasgow,Großbritannien,False,university
+40,Soziologisches Forschungsinstitut Göttingen (SOFI),Göttingen,Deutschland,False,institute
+41,Georg-August-Universität Göttingen,Göttingen,Deutschland,False,university
+4,Hochschule für Angewandte Wissenschaft Hamburg (HAW),Hamburg,Deutschland,False,university
+55,Institut für Bildungsmonitoring und Qualitätsentwicklung (IfBQ),Hamburg,Deutschland,False,ressort
+57,Universität Hamburg (UHH),Hamburg,Deutschland,False,university
+21,Gottfried Wilhelm Leibniz Universität Hannover (LUH),Hannover,Deutschland,False,university
+53,Deutsches Zentrum für Hochschul- und Wissenschaftsforschung (DZHW),Hannover,Deutschland,True,ressort
+52,Universität Hildesheim,Hildesheim,Deutschland,False,university
+70,Niedersächsisches Landesinstitut für schulische Qualitätsentwicklung (NLQ),Hildesheim,Deutschland,False,ressort
+60,Universität Innsbruck,Innsbruck,Österreich,False,university
+23,Koç Üniversitesi,Istanbul,Türkei,False,university
+34,Friedrich-Schiller-Universität Jena,Jena,Deutschland,False,university
+64,Karlsruher Institut für Technologie (KIT),Karlsruhe,Deutschland,False,university
+31,Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik (IPN),Kiel,Deutschland,True,institute
+61,Christian-Albrechts-Universität zu Kiel (CAU),Kiel,Deutschland,False,university
+62,Kiel Institut für Weltwirtschaft,Kiel,Deutschland,False,institute
+27,Universität Koblenz-Landau,Koblenz,Deutschland,False,university
+80,Danish National Centre für Social Research,Kopenhagen,Dänemark,False,ressort
+11,Universität Leipzig,Leipzig,Deutschland,True,university
+82,King's College,London,Großbritannien,False,university
+83,London School of Economics and Political Science,London,Großbritannien,False,university
+77,Universität Carlos III zu Madrid,Madrid,Spanien,False,university
+67,Universität Mailand (UniMi),Mailand,Italien,False,university
+26,Johannes Gutenberg-Universität Mainz,Mainz,Deutschland,False,university
+10,GESIS - Leibniz-Institut für Sozialwissenschaften,Mannheim,Deutschland,False,institute
+13,Mannheimer Zentrum für Europäische Sozialforschung (MZES),Mannheim,Deutschland,False,institute
+35,Universität Mannheim,Mannheim,Deutschland,False,university
+45,"Hochschule der Bundesagentur für Arbeit (HdBA), Campus Mannheim",Mannheim,Deutschland,False,university
+5,Deutsche Jugendinstitut e. V. (DJI),München,Deutschland,True,institute
+7,Ludwig-Maximilian-Universität München (LMU),München,Deutschland,False,university
+19,Staatsinstitut für Schulqualität und Bildungsforschung (ISB),München,Deutschland,False,ressort
+29,Technische Universität München (TUM),München,Deutschland,False,university
+56,Universität Münster,Münster,Deutschland,False,university
+33,Yeshiva University,New York,Vereinigte Staaten,False,university
+25,Institut für Arbeitsmarkt- und Berufsforschung (IAB),Nürnberg,Deutschland,True,institute
+24,Carl von Ossietzky Universität Oldenburg,Oldenburg,Deutschland,False,university
+58,University of Oxford,Oxford,Großbritannien,False,university
+86,Universität Padua,Padua,Italien,False,university
+79,Hochschule Pforzheim,Pforzheim,Deutschland,False,fachhochschule
+8,Ostbayerische Technische Hochschule Regensburg (OTH Regensburg),Regensburg,Deutschland,False,university
+65,John Cabot University,Rom,Italien,False,university
+28,Pädagogische Hochschule Schwäbisch Gmünd,Schwäbisch Gmünd,Deutschland,False,university
+69,Technische Hochschule Würzburg-Schweinfurt (THWS),Schweinfurt,Deutschland,False,university
+63,"Hochschule der Bundesagentur für Arbeit (HdBA), Campus Schwerin",Schwerin,Deutschland,False,university
+73,Universität Siegen,Siegen,Deutschland,False,university
+76,University of St Andrews,St Andrews,Großbritannien,False,university
+16,Universität Stockholm,Stockholm,Schweden,False,university
+87,Swedish Institute for Social Research,Stockholm,Schweden,False,ressort
+51,SRH Hochschule,Stuttgart,Deutschland,False,fachhochschule
+36,Universität Teheran,Teheran,Iran,False,university
+37,University of Social Welfare and Rehabilitation Sciences,Teheran,Iran,False,university
+84,Research Institute for the Evaluation of Public Policies,Trento,Italien,False,institute
+20,Eberhard Karls Universität Tübingen,Tübingen,Deutschland,False,university
+66,Collegio Carlo Alberto,Turin,Italien,False,university
+38,Unversität Uppsala,Uppsala,Schweden,False,university
+68,Universität Vechta,Vechta,Deutschland,False,university
+6,Pädagogische Hochschule Weingarten,Weingarten,Deutschland,False,university
+42,Statistisches Bundesamt (Destatis),Wiesbaden,Deutschland,False,ressort
+78,Bundesinstitut für Bevölkerungsforschung (BiB),Wiesbaden,Deutschland,False,ressort
+43,Institut für Bildungsanalysen Baden-Württemberg (IBBW),Worms,Deutschland,False,university
+39,HMU Health and Medical University,Potsdam,Deutschland,False,university
+49,Pädagogische Hochschule Niederösterreich,Baden,Deutschland,False,fachhochschule
+74,Universität Passau (UP),Passau,Deutschland,False,university
+91,University of British Columbia,Vancouver,Kanada,False,university
+92,Technische Universität Dresden,Dresden,Deutschland,False,university
+93,Universität Stuttgart,Stuttgart,Deutschland,False,university
+94,Keiō-Universität,Tokio,Japan,False,university
+95,Friedrich-Alexander-Universität,Erlangen-Nürnberg,Deutschland,False,university
+96,Bayerisches Forschungsinstitut für Digitale Transforamtion (BIDT),Nürnberg,Deutschland,False,institute
+97,University College Dublin,Dublin,Irland,False,university
+98,Autonome Universität Barcelona,Barcelona,Spanien,False,university
+99,Institut der deutschen Wirtschaft (IW),Köln,Deutschland,False,institute
+100,University of Toronto,Toronto,Kanada,False,university
+101,Julius-Maximilians-Universität Würzburg,Würzburg,Deutschland,False,university
+102,Paris-Lodron-Universität Salzburg,Salzburg,Österreich,False,university
+103,Rheinisch-Westfälische Technische Hochschule Aachen,Aachen,Deutschland,False,university
+104,Universität Osnabrück,Osnabrück,Deutschland,False,university
+105,Rheinische Friedrich-Wilhems-Universität Bonn,Bonn,Deutschland,False,university
+106,Universität Oslo,Oslo,Norwegen,False,university
+107,Universität Haifa,Haifa,Israel,False,university
+108,Ben-Gurion-Universität im Negev,"Be'er Scheva, Sde Boqer, Eilat",Israel,False,university
+109,Universität Trient,Trento,Italien,False,university
+110,Fachhochschule Graubünden,Chur,Schweiz,False,fachhochschule
+111,Institut für politische Studien Paris/Institut d’études politiques,Paris,Frankreich,False,institute
+112,Australian Catholic University (ACU),Sydney,Australien,False,university
+113,Ruhr-Universität Bochum (RUB),Bochum,Deutschland,False,university
+114,Max-Planck-Institut für Bildungsforschung,Berlin,Deutschland,False,institute
+115,Evangelische Hochschule Nürnberg,Nürnberg,Deutschland,False,university
+116,Universität zu Köln,Köln,Deutschland,False,university
+117,Katholische Universität Löwen,Leuven,Belgien,False,university
+118,Universität Bern,Bern,Schweiz,False,university
+119,Universität Zürich,Zürich,Schweiz,False,university
+120,Universität Rostock,Rostock,Deutschland,False,university
+121,Hochschule für Technik und Wirtschaft des Saarlandes,Saarbücken,Deutschland,False,university
+122,"Survey of Health, Aging and Retirement in Europe (SHARE)","Berlin, München",Deutschland,False,institute
+123,Max-Planck-Institut für Sozialrecht und Sozialpolitik,München,Deutschland,False,institute
+124,Joint Research Centre (JRC),Brüssel,Belgien,False,ressort
+125,ZEW - Leibniz-Zentrum für Europäische Wirtschaftsforschung,Mannheim,Deutschland,False,institute
+126,Hochschul-Informations-System eHG (HIS),Hannover,Deutschland,False,other
+127,Brandenburgische Technische Universität Cottbus-Senftenberg,"Cottbus, Senftenberg",Deutschland,False,university
+128,Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR),Köln,Deutschland,False,institute
+129,Kolleg für interdisziplinäre Bildungsforschung (CIDER),,Deutschland,False,institute
+130,Leibniz-Institut für Psychologie (ZPID),Trier,Deutschland,False,institute
+131,Universität Trier,Trier,Deutschland,False,university
+132,"Universität von Kalifornien, Davis (UC Davis)","Davis, CA",Vereinigte Staaten,False,university
+133,Universität Tilburg (TiU),Tilburg,Niederland,False,university
+134,Universität Bremen,Bremen,Deutschland,False,university
+135,University of Surrey,Guildford,Vereinigtes Königreich,False,university
+136,Universität Bergen,Bergen,Norwegen,False,university
+137,Universität Potsdam,Potsdam,Deutschland,False,university
+138,Universität Paderborn,Paderborn,Deutschland,False,university
+139,Universität von Glasgow,Glasgow,Vereinigtes Königreich,False,university
+140,Institute national d'études démographiques (INED),Aubervilliers,Frankreich,False,university
+141,Universität von Amsterdam,Amsterdam,Niederlande,False,university
+142,Durham University,Durham,Vereinigtes Königreich,False,university
+143,Universität Duisburg-Essen,"Duisburg, Essen",Deutschland,False,university
+144,Forschungsinstitut zur Zukunft der Arbeit (IZA),Bonn,Deutschland,False,institute
+145,Universität Kassel,Kassel,Deutschland,False,university
+146,Institut für Höhere Studien (IHS),Wien,Österreich,False,institute
+147,University of Illinois at Urbana-Champaign,"Urbana, Champaign, IL",Vereinigte Staaten,False,university
+148,Oslomet - Metropoluniversität,Oslo,Norwegen,False,university
+149,UNICEF Deutschland,Köln,Deutschland,False,other
+150,Justus-Liebig-Universität Gießen,Gießen,Deutschland,False,university
+151,Technische Universität Darmstadt,Darmstadt,Deutschland,False,university
+152,Fachhochschule Nordwestschweiz (FHNW),Windisch,Schweiz,False,fachhochschule
+153,Universität Regensburg,Regensburg,Deutschland,False,university
+154,Institut für Schulqualität der Länder Berlin und Brandenburg (ISQ),Berlin,Deutschland,False,institute
+155,"Universität von Kalifornien, Berkeley (UC Berkeley)","Berkeley, CA",Vereinigte Staaten,False,university
+156,Philipps-Universität Marburg,Marburg,Deutschland,False,university
+157,Bundesagentur für Arbeit,Nürnberg,Deutschland,False,ressort
+158,Universität Southampton,Southampton,Vereinigtes Königreich,False,university
+159,Universität Konstanz,Konstanz,Deutschland,False,university
+160,Universität Cambridge,Cambridge,Vereinigtes Königreich,False,university
+161,Universität Melbourne,Melbourne,Australien,False,university
+162,University of Canberra,Canberra,Australien,False,university
+163,Pädagogische Hochschule (PH Freiburg),Freiburg im Breisgau,Deutschland,False,university
+164,Brigham Young University (BYU),"Provo, UT",Vereinigte Staaten,False,university
+165,Forschungsinstitut Gesellschaftlicher Zusammenhalt,"Frankfurt am Main, Bremen, Leipzig",Deutschland,False,institute
+166,Pädagogische Hochschule Thurgau,Kreuzlingen,Schweiz,False,university
+167,Columbia-Universität in der Stadt New York,"New York City, NY",Vereinigte Staaten,False,university
+168,Universität Sydney,Sydney,Australien,False,university
+169,The Economic and Social Research Institute (ESRI),Dublin,Irland,False,institute
+170,Erasmus-Universität Rotterdam,Rotterdam,Niederlande,False,university
+171,Centraal Bureau voor de Statistiek Niederlande,Den Haag,Niederlande,False,ressort
+172,Universität Hongkong (HKU),Hongkong,Hongkong,False,university
+173,IUBH Internationale Hochschule,Erfurt,Deutschland,False,fachhochschule
+174,Universität Luxemburg,Esch an der Alzette,Luxemburg,False,university
+175,"University of California, Irvine (UCI)","Irvine, CA",Vereinigte Staaten,False,university
+176,Hochschule Worms,Worms,Deutschland,False,fachhochschule
+177,Rheinland-Pfälzische Technische Universität (RPTU),"Kaiserslautern, Landau",Deutschland,False,university
+178,Europa-Universität Flensburg,Flensburg,Deutschland,False,university
+179,Leibniz-Institut für Wirtschaftsforschung,Haale an der Saale,Deutschland,False,institute
+180,Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung,"Berlin, Wiesbaden",Deutschland,False,other
+181,Universität Kopenhagen,Kopenhagen,Dänemark,False,university
+182,Northwestern University,"Evanston, Chicago, IL",Vereinigte Staaten,False,university
+183,Forschungsinstitut für Bildungs- und Sozialökonomie,Berlin,Deutschland,False,institute
+184,Deutsches Zentrum für Integrations- und Migrationsforschung,Berlin,Deutschland,False,institute
+185,Technisch-Naturwissenschaftliche Universität Norwegens (NTNU),Trondheim,Norwegen,False,university
+186,Technische Universität Braunschweig,Braunschweig,Deutschland,False,university
+187,Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg (HSU/UniBW Hamberg),Hamburg,Deutschland,False,university
+188,"Senatsverwaltung für Arbeit, Integration und Frauen",Berlin,Deutschland,False,other
+189,Universität Turku,Turku,Finnland,False,university
+190,Leuphana Universität Lüneburg,Lüneburg,Deutschland,False,university
+191,Universität Greifswald,Greifswald,Deutschland,False,university
+192,Universität der Bundeswehr München,Neubiberg,Deutschland,False,university
+193,"Universität für Weiterbildung, Krems",Krems an der Donau,Österreich,False,university
+194,Spanish National Office for Foresight and Strategy,Madrid,Spanien,False,other
+195,Universität Wien,Wien,Österreich,False,university
+196,Institut für Bildungsanalysen Baden-Württemberg (IBBW),Stuttgart,Deutschland,False,ressort
+197,Bayerisches Staatsinstitut für Hochschulforschung und Hochschulplanung,München,Deutschland,False,ressort
+198,Universität Leiden,"Leiden, Den Haag",Niederlande,False,university
+199,Universität Utrecht,Utrecht,Niederlande,False,university
+200,Universität Maastricht,Maastricht,Niederlande,False,university
+201,Fernuniversität in Hagen,Hagen,Deutschland,False,university
+202,Technische Hochschule Nürnberg Georg Simon Ohm (TH Nürnberg),Nürnberg,Deutschland,False,university
+203,Hochschule Koblenz,Koblenz,Deutschland,False,university
+204,Initiative Zukunftsbildung,Heilbronn,Deutschland,False,other
+205,Universität Bologna,Bologna,Italien,False,university
+206,Universität Florenz,Florenz,Italien,False,university
+207,Martin-Luther-Universität Halle-Wittenberg (MLU),Halle an der Saale,Deutschland,False,university
+208,Johannes Kepler Universität Linz (JKU),Linz,Österreich,False,university
+209,Bergische Universität Wuppertal,Wuppertal,Deutschland,False,university
+210,University of Texas at Austin,"Austin, TX",Vereinigte Staaten,False,university
+211,Universität Lausanne,Lausanne,Schweiz,False,university
+212,DLR Projektträger (DLP-RT),"Bonn, Berlin",Deutschland,False,other
+213,ifo Institut - Leibniz-Institut für Wirtschaftsforschung,München,Deutschland,False,institute
+214,Universität Freiburg,Freiburg im Breisgau,Deutschland,False,university
+215,Population Research Institute,Helsinki,Finnland,False,institute
+216,Bundesamt für Migration und Flüchtlinge (BAMF),Nürnberg,Deutschland,False,other
+217,Hochschule für angewandte Wissenschaften Ansbach,Ansbach,Deutschland,False,fachhochschule
+218,Universität Augsburg,Augsburg,Deutschland,False,university
+219,Universität Ulm,Ulm,Deutschland,False,university
+220,Stanford University,Stanford,Vereinigte Staaten,False,university
+221,Pädagogische Hochschule Salzburg,Salzburg,Österreich,False,university
+222,Hochschule für Musik und Darstellende Kunst Frankfurt am Main,Frankfurt am Main,Deutschland,False,university
+223,Musikhochschule Lübeck (MHL),Lübeck,Deutschland,False,university
+225,Universität Erfurt,Erfurt,Deutschland,False,university
+226,Forschungszentrum der Deutschen Bundesbank,Frankfurt am Main,Deutschland,False,ressort
+227,Universität Linköping,"Linköping, Norrköping",Schweden,False,university
+228,Universität Jyväskylä,Jyväskylä,Finnland,False,university
+229,Kommunales Bildungsmonitoring der Stadt Leipzig,Leipzig,Deutschland,False,other
+230,"Hochschule für Musik, Theater und Medien Hannover (HMTMH)",Hannover,Deutschland,False,university
+231,University College London (UCL),London,Vereinigtes Königreich,False,university
+232,Universität Burgund Europa,Dijon,Frankreich,False,university
+233,Freie Universität Bozen,Bozen,Italien,False,university
+234,infas Institut für angewandte Sozialwissenschaft,Bonn,Deutschland,False,other
+235,Universität Genf,Genf,Schweiz,False,university
+236,Pädagogische Hochschule St. Gallen,St. Gallen,Schweiz,False,university
+237,Otto-von-Guericke-Universität Magdeburg (OVGU),Magdeburg,Deutschland,False,university
+238,Pädagogische Hochschule Schwyz (PHSZ),Goldau,Schweiz,False,university
+239,Robert-Koch-Institut (RKI),Berlin,Deutschland,False,ressort
+240,Alice Salomon Hochschule Berlin (ASH),Berlin,Deutschland,False,university
+241,Hans-Böckler-Stiftung (HSB),Düsseldorf,Deutschland,False,other
+224,Universität Montpellier,Montpellier,Frankreich,False,university
+242,Universität Oulu,Oulu,Finnland,False,university
+243,Pädagogische Hochschule Tirol,Innsbruck,Österreich,False,fachhochschule
+244,Universität Helsinki,Helsinki,Finnlad,False,university
+245,Institut für Mittelstandsforschung Bonn (IfM Bonn),Bonn,Deutschland,False,institute
+246,Max Planck-Institut für demografische Forschung (MPIDR),Rostock,Deutschland,False,institute
+247,Universität Tampere,Tampere,Finnland,False,university
+248,FOM Hochschule für Oekonomie und Management,Essen,Deutschland,False,fachhochschule
+249,Rostocker Institut für Sozialforschung und gesellschaftliche Praxis e.V.,Rostock,Deutschland,False,institute
+250,Thünen-Institut für Regionalentwicklung e.V.,Kritzow,Deutschland,False,institute
+251,Universität St. Gallen,St. Gallen,Schweiz,False,university
+252,Institut für Angewandte Wirtschaftsforschung,Tübingen,Deutschland,False,institute
+253,Alpen-Adria-Universität Klagenfurt (AAU),Klagenfurt,Österreich,False,university
+254,Duale Hochschule Baden-Württemberg Stuttgart,Stuttgart,Deutschland,False,university
+255,Technische Universität Chemnitz,Chemnitz,Deutschland,False,university
+256,Weizenbaum-Institut,Berlin,Deutschland,False,institute
+257,Universität Pavia,Pavia,Italien,False,university
+258,Bertelsmann Stiftung,Gütersloh,Deutschland,False,other
+259,Seoul National University,Seoul,Südkorea,False,university
+260,University of Chicago,"Chicago, IL",Vereinigte Staaten,False,university
+261,Universität Zypern,Nikosia,Zypern,False,university
+262,"KiTeAro - Institut für Bildung, Forschung und Entwicklung in der Pädagogik",Berlin,Deutschland,False,institute
+263,Stiftung Digitale Chancen,Berlin,Deutschland,False,other
+264,Berliner Kita-Institut für Qualitätsentwicklung,Berlin,Deutschland,False,institute
+265,London Metropolitan University,London,Vereinigtes Königreich,False,university
+266,Newcastle University,Newcastle upon Tyne,Vereinigtes Königreich,False,university
+267,University of Bristol,Bristol,Vereinigtes Königreich,False,university
+268,University of Warwick,Coventry,Vereinigtes Königreich,False,university
+269,Jinan-Universität,Jinan,China,False,university
+270,University of Edinburgh,Edinburgh,Vereinigtes Königreich,False,university
+271,Universität Danzig,Danzig,Polen,False,university
+272,Bauhaus-Universität Weimar,Weimar,Deutschland,False,university
+273,Universität Gent,Gent,Belgien,False,university
+274,HafenCity Universität Hamburg,Hamburg,Deutschland,False,university
+275,Bundesanstalt für Arbeitsschutz und Arbeitsmedizin,"Dortmund, Berlin, Dresden",Deutschland,False,ressort
+276,Hochschule für Wirtschaft und Recht Berlin,Berlin,Deutschland,False,university
+277,Hochschule Fulda,Fulda,Deutschland,False,university
+278,Ernst-Abbe-Hochschule Jena,Jena,Deutschland,False,fachhochschule
+279,Deutsches Institut für Interdisziplinäre Sozialpolitikforschung,Duisburg,Deutschland,False,institute
+280,University of London,London,Vereinigtes Königreich,False,university
+281,Technische Hochschule Rosenheim,Rosenheim,Deutschland,False,university
+282,Norwegian Center for Child Behavioral Development (NUBU),Oslo,Norwegen,False,institute
+283,Pädagogische Hochschule Karlsruhe,Karlsruhe,Deutschland,False,university
+284,Universitas Padjadjaran,Jatinangor,Indonesien,False,university
+285,Wirtschaftsuniversität Osaka,Osaka,Japan,False,university
+286,Charlotte Fresenius Universität,Köln,Deutschland,False,university
+287,Unversity of Kansas,"Lawrence, KS",Vereinigte Staaten,False,university
+288,Nanyang Technological University,Jurong,Singapur,False,university
+289,University of Queensland,Brisbane,Australien,False,university
+290,Universität Hohenheim,Stuttgart-Hohenheim,Deutschland,False,university
+291,Hochschule für angewandte Wissenschaften München,München,Deutschland,False,fachhochschule
+292,Hochschule für soziale Arbeit und Pädagogik (HSAP),Berlin,Deutschland,False,fachhochschule
+293,Leibniz-Institut für Präventionsforschung und Epidemiologie,Bremen,Deutschland,False,institute
+294,Atof Inc.,"Cambridge, MA",Vereinigte Staaten,False,university
+295,Old Dominion University,"Norfolk, Virginia",Vereinigte Staaten,False,university
+296,Leibniz-Institut für Wirtschaftsforschung Halle,Halle an der Saale,Deutschland,False,institute
+297,Katholische Universität Eichstätt-Ingolstadt,"Eichstätt, Ingolstadt",Deutschland,False,university
+298,Princeton University,"Princeton, New Jersey",Vereinigte Staaten,False,university
+299,Portland State University,"Portland, Oregon",Vereinigte Staaten,False,university
+300,New York University (NYU),"New York City, NY",Vereinigte Staaten,False,university
+301,"Háskóli Íslands, Universität von Island",Reykjavík,Island,False,university
+302,Universität Aarhus,Aarhus,Dänemark,False,university
+303,Universität Reims,Reims,Frankreich,False,university
+304,Pädagogische Hochschule Oberösterreich,Linz,Österreich,False,university
+305,"Bundesinstitut für Bildungsforschung, Innovation & Entwicklung des österreichischen Schulwesens (BIFIE)",Salzburg,Österreich,False,ressort
+306,Deutsche Zentrum für Integrations- und Migrationsforschung (DeZIM),Berlin,Deutschland,False,institute
+307,Michigan State University,"East Lansing, MI",Vereinigste Staaten,False,university
+308,DEval – Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit,Bonn,Deutschland,False,institute
+309,Applied Vocational Psychology and Policy Research Unit (AVOPP),Belvaux,Luxemburg,False,other
+310,Universität Tallinn,Tallinn,Estland,False,university
+311,Technische Universität Clausthal (TU Clausthal),Clausthal-Zellerfeld,Deutschland,False,university
+312,Universität Kōbe,Kōbe,Japan,False,university
+313,Universität Stavanger,Stavanger,Norwegen,False,university
+314,Brown University,"Providence, Rhode Island",Vereinigte Staaten,False,university
+315,Psychologische Hochschule Berlin (PHB),Berlin,Deutschland,False,university
+316,Deutsches Zentrum für Altersfragen,Berlin,Deutschland,False,ressort
+317,University of Sussex,Brighton and Hove,Vereinigtes Königreich,False,university
+318,De Haagse Hogeschule (Hochschule Den Haag),Den Haag,Niederlande,False,university
+319,Economic and Social Research Institute (ESRI),Dublin,Irland,False,institute
+320,Universität Straßburg,Straßburg,Frankreich,False,university
+321,Ruprecht-Karls-Universität Heidelberg,Heidelberg,Deutschland,False,university
+322,Hochschule Reutlingen,Reutlingen,Deutschland,False,university
+323,Monash University,Melbourne,Australien,False,university
+324,Pädagogische Hochschule Heidelberg,Heidelberg,Deutschland,False,university
+325,Teikyō-Universität,Itabashi-ku,Japan,False,university
+326,International Association for the Evaluation of Educational Achievement,Amsterdam,Niederlande,False,other
+327,Universität Graz,Graz,Österreich,False,university
+328,Hochschule Westnorwegen,Bergen,Norwegen,False,university
+329,BSP Business & Law School - Hochschule für Management und Recht,"Berlin, Hamburg",Deutschland,False,university
+330,Peking-Universität,Peking,China,False,university
+331,Universität des Saarlandes,"Saarbrücken, Homburg",Deutschland,False,university
+332,Fürst Donnersmarck-Stiftung zu Berlin (FDST),Berlin,Deutschland,False,other
+333,Internationale Organisation für Migration,Genf,Schweiz,False,other
+334,"University of Missouri (MU, Mizzou)","Columbia, MO",vereinigte Staaten,False,university
+335,Universität Tokio,Tokio,Japan,False,university
+336,Hochschule für angewandte Wissenschaften Coburg,Coburg,Deutschland,False,fachhochschule
+337,Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,Hildesheim,Deutschland,False,fachhochschule
+338,Frankfurt University of Applied Sciences,Frankfurt am Main,Deutschland,False,fachhochschule
+339,University of Michigan (UMich),"Ann Arbor, MI",Vereinigte Staaten,False,university
+340,Niedersächsiches Institut für Wirtschaftsforschung,Hannover,Deutschland,False,ressort
+341,MSB Medical School Berlin- Hochschule für Gesundheit und Medizin,Berlin,Deutschland,False,university
+342,Harvard University,"Cambridge, MA",Vereinigte Staaten,False,university
+343,Leibniz-Institut für Deutsche Sprache (IDS),Mannheim,Deutschland,False,institute
+344,Netherlands Bureau for Economic Policy Analysis (CPB),Den Haag,Niederlande,False,ressort
+345,Centre national de la recherche scientifique,Paris,Frankreich,False,ressort
+346,Sorbonne Université,Paris,Frankreich,False,university
+347,MSH Medical School Hamburg - University of Applied Sciences and Medical University,Hamburg,Deutschland,False,university
+348,Eidgenössische Hochschule für Berufsbildung EHB,Zollikofen,Schweiz,False,university
+349,Vrije Universiteit Amsterdam (VU Amsterdam),Amsterdam,Niederlande,False,university
+350,Niedersächsischen Instituts für Wirtschaftsforschung (NIW),Hannover,Deutschland,False,institute
+351,Staatsinstitut für Frühpädagogik und Medienkompetenz (IFP),Amberg,Deutschland,False,ressort
+352,University of Auckland,Auckland,Neuseeland,False,university
+353,York University,Toronto,Kanada,False,university

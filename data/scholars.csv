@@ -1,0 +1,1193 @@
+scholar_id,given_name,family_name,full_name,is_editor,field_of_study,former_surname,field_of_study_broad
+1,Taylan,Acar,Taylan Acar,False,Migrationsforschung,,Migration & Integration
+2,Silke,Aisenbrey,Silke Aisenbrey,False,Soziologie,,Soziologie & Gesellschaft
+3,Anette,Fasang,Anette Fasang,False,Mikrosoziologie,,Soziologie & Gesellschaft
+4,Alyssa J.,Alexander,Alyssa J. Alexander,False,Entwicklungspsychologie,,Psychologie
+5,Mikaela J.,Dufur,Mikaela J. Dufur,False,Kindheits- und Jugendsoziologie,,Soziologie & Gesellschaft
+6,Michael R.,Cope,Michael R. Cope,False,Gemeinschaftssoziologie,,Soziologie & Gesellschaft
+7,Jonathan A.,Jarvis,Jonathan A. Jarvis,False,Globale Bildung,,Bildung & Erziehungswissenschaft
+8,Amy R.,Read,Amy R. Read,False,Demografie,,Demographie & Lebensverlauf
+9,Jutta,Allmendinger,Jutta Allmendinger,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+10,Corinna,Kleinert,Corinna Kleinert,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+11,Reinhard,Pollak,Reinhard Pollak,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+12,Basha,Vicari,Basha Vicari,False,Arbeitsmarktsoziologie,,Ökonomie & Arbeitsmarkt
+13,Oliver,Wölfel,Oliver Wölfel,False,Weiterbildungsforschung,,Bildung & Erziehungswissenschaft
+14,Agnieszka,Althaber,Agnieszka Althaber,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+15,Manfred,Antoni,Manfred Antoni,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+16,Bernhard,Christoph,Bernhard Christoph,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+17,Katrin,Drasch,Katrin Drasch,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+18,Florian,Janik,Florian Janik,False,Weiterbildungsforschung,,Bildung & Erziehungswissenschaft
+19,Ralf,Künster,Ralf Künster,False,Erhebungsmethoden,,Methoden & Statistik
+20,Marie-Christine,Laible,Marie-Christine Laible,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+21,Kathrin,Leuze,Kathrin Leuze,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+22,Britta,Matthes,Britta Matthes,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+23,Michael,Ruland,Michael Ruland,False,Bildung und interkulturelle Kompetenzen,,Migration & Integration
+24,Benjamin,Schulz,Benjamin Schulz,False,Berufsbildung und lebenslanges Lernen,,Bildung & Erziehungswissenschaft
+25,Annette,Trahms,Annette Trahms,False,Surveymethodologie,,Methoden & Statistik
+26,Pascal,Alscher,Pascal Alscher,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+27,Ulrich,Ludewig,Ulrich Ludewig,False,Lesekompetenz,,Bildung & Erziehungswissenschaft
+28,Nele,McElvany,Nele McElvany,False,Kompetenzforschung,,Bildung & Erziehungswissenschaft
+29,Shima,Aminipour,Shima Aminipour,False,Frühe Bildung,,Bildung & Erziehungswissenschaft
+30,Ali,Asgari,Ali Asgari,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+31,Elaheh,Hejazi,Elaheh Hejazi,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+32,Hans-Günther,Roßbach,Hans-Günther Roßbach,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+33,Yvonne,Anders,Yvonne Anders,True,Frühkindliche Bildungsforschung,,Bildung & Erziehungswissenschaft
+34,Hans-Dieter,Daniel,Hans-Dieter Daniel,True,Sozialpsychologie,,Psychologie
+35,Bettina,Hannover,Bettina Hannover,True,Schul- und Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+36,Olaf,Köller,Olaf Köller,True,Bildungsmonitoring,,Bildung & Erziehungswissenschaft
+37,Dieter,Lenzen,Dieter Lenzen,True,Erziehungswissenschaft,,Bildung & Erziehungswissenschaft
+38,Tina,Seidel,Tina Seidel,True,Pädagogische Psychologie,,Psychologie
+39,Rudolf,Tippelt,Rudolf Tippelt,True,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+40,Ludger,Wößmann,Ludger Wößmann,True,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+41,Gunnar,Andersson,Gunnar Andersson,False,Demografieforschung,,Demographie & Lebensverlauf
+42,Elizabeth,Thomson,Elizabeth Thomson,False,Soziologie,,Soziologie & Gesellschaft
+43,Aija,Duntava,Aija Duntava,False,Soziologie,,Soziologie & Gesellschaft
+44,Christina,Anger,Christina Anger,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+45,Wido,Geis-Thöne,Wido Geis-Thöne,False,Familienökonomik,,Ökonomie & Arbeitsmarkt
+46,Silke,Anger,Silke Anger,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+47,Pascal,Heß,Pascal Heß,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+48,Simon,Janssen,Simon Janssen,False,Arbeitsökonomik,,Ökonomie & Arbeitsmarkt
+49,Ute,Leber,Ute Leber,False,Arbeitsforschung,,Ökonomie & Arbeitsmarkt
+50,Christian,Westermeier,Christian Westermeier,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+51,Hans-Dieter,Gerner,Hans-Dieter Gerner,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+52,Robert,Jäckle,Robert Jäckle,False,Verhaltensökonomik,,Ökonomie & Arbeitsmarkt
+53,Stefan,Schwarz,Stefan Schwarz,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+54,Daniel,Bela,Daniel Bela,False,Survey-Technologie,,Methoden & Statistik
+55,Cordula,Artelt,Cordula Artelt,False,Pädagogische Psychologie,,Psychologie
+56,Michaela,Sixt,Michaela Sixt,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+57,Mathias,Bug,Mathias Bug,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+58,Kai,Maaz,Kai Maaz,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+59,Thomas,Runge,Thomas Runge,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+60,Uta,Brehm,Uta Brehm,False,Soziologie,,Soziologie & Gesellschaft
+61,Ina,Rüber-Tehe,Ina Rüber,False,Erwachsenenbildung,Rüber,Bildung & Erziehungswissenschaft
+62,Jens,Ruhose,Jens Ruhose,False,Arbeitsökonomik,,Ökonomie & Arbeitsmarkt
+63,Robin,Busse,Robin Busse,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+64,Christian,Aßmann,Christian Aßmann,False,Ökonometrie,,Ökonomie & Arbeitsmarkt
+65,Jean-Christoph,Gaasch,Jean-Christoph Gaasch,False,Statistik,,Methoden & Statistik
+66,Doris,Stingl,Doris Stingl,False,Survey-Methodologie,,Methoden & Statistik
+67,Uta,Landrock,Uta Landrock,False,Survey-Methodologie,,Methoden & Statistik
+68,Ariane,Würbach,Ariane Würbach,False,Survey-Statistik,,Methoden & Statistik
+69,Steffi,Pohl,Steffi Pohl,False,Survey-Methodologie,,Methoden & Statistik
+70,Claus H.,Carstensen,Claus H. Carstensen,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+71,Solange,Goßmann,Solange Goßmann,False,Statistische Methoden,,Methoden & Statistik
+72,Ferdinand,Geissler,Ferdinand Geissler,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+73,Anika,Bela,Anika Bela,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+74,Hans Walter,Steinhauer,Hans Walter Steinhauer,False,Survey-Methodologie,,Methoden & Statistik
+75,Sabine,Zinn,Sabine Zinn,False,Survey-Methodologie,,Methoden & Statistik
+76,Angelina,Hammon,Angelina Hammon,False,Survey-Statistik,,Methoden & Statistik
+77,Hans,Kiesl,Hans Kiesl,False,Survey-Statistik,,Methoden & Statistik
+78,Götz,Rohwer,Götz Rohwer,False,Statistische Methoden,,Methoden & Statistik
+79,Susanne,Rässler,Susanne Rässler,False,Ökonometrie,,Ökonomie & Arbeitsmarkt
+80,Hans-Peter,Blossfeld,Hans-Peter Blossfeld,False,Soziologie,,Soziologie & Gesellschaft
+81,Manja,Attig,Manja Attig,False,Frühe Bildung,,Bildung & Erziehungswissenschaft
+82,Markus,Vogelbacher,Markus Vogelbacher,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+83,Sabine,Weinert,Sabine Weinert,False,Entwicklungspsychologie,,Psychologie
+84,Frances,Hoferichter,Frances Hoferichter,False,Schulpädagogik,,Bildung & Erziehungswissenschaft
+85,Isa,Steinmann,Isa Steinmann,False,Pädagogische Psychologie,,Psychologie
+86,Rolf,Strietholt,Rolf Strietholt,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+87,Ilka,Wolter,Ilka Wolter,False,Pädagogische Psychologie,,Psychologie
+88,Lena,Nusser,Lena Nusser,False,Sonderpädagogik,,Bildung & Erziehungswissenschaft
+89,Roman,Auriga,Roman Auriga,False,Survey-Methodik,,Methoden & Statistik
+90,André,Pirralha,André Pirralha,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+91,Friederike,Schlücker,Friederike Schlücker,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+92,Götz,Lechner,Götz Lechner,False,Public Relations,,Forschungsmanagement
+93,Anna,Passmann,Anna Passmann,False,Studienkommunikation,,Forschungsmanagement
+100,,Autor:innengruppe Bildungsberichterstattung,Autor:innengruppe Bildungsberichterstattung,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+101,Meike,Baas,Meike Baas,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+102,Veronika,Philipps,Veronika Philipps,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+103,Nadine,Bachbauer,Nadine Bachbauer,False,Arbeitsmarktsoziologie,,Ökonomie & Arbeitsmarkt
+104,Clara,Wolf,Clara Wolf,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+105,Daniel,Fuß,Daniel Fuß,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+106,Ann-Christin,Bächmann,Ann-Christin Bächmann,False,Arbeitsmarktsoziologie,Hausmann,Ökonomie & Arbeitsmarkt
+107,Ronald,Bachmann,Ronald Bachmann,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+108,Rahel,Felder,Rahel Felder,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+109,Marcus,Tamm,Marcus Tamm,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+110,Friederike,Hertweck,Friederike Hertweck,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+111,Rebecca,Kamb,Rebecca Kamb,False,Arbeitsökonomik,,Ökonomie & Arbeitsmarkt
+112,Judith,Lehner,Judith Lehner,False,Digitale Kompetenzen,,"Medien, Digitalisierung & Technik"
+113,Malte,Niederstadt,Malte Niederstadt,False,Makroökonomik,,Ökonomie & Arbeitsmarkt
+114,Dörthe,Gatermann,Dörthe Gatermann,False,Familienforschung,,Soziologie & Gesellschaft
+115,Alina,Bachmann,Alina Bachmann,False,Schulpädagogik,,Bildung & Erziehungswissenschaft
+116,Katharina,Nimz,Katharina Nimz,False,Sprach- und Literaturwissenschaft,,Fachdidaktiken
+117,Teresa,Backhaus,Teresa Backhaus,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+118,Florian,Bains,Florian Bains,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+119,Bruno,Albert,Bruno Albert,False,Datenschutz,,Forschungsmanagement
+120,Ulf,Banscherus,Ulf Banscherus,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+121,Caroline,Kamm,Caroline Kamm,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+122,Alexander,Otto,Alexander Otto,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+123,Paolo,Barbieri,Paolo Barbieri,False,Arbeitssoziologie,,Ökonomie & Arbeitsmarkt
+124,Filippo,Gioachin,Filippo Gioachin,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+125,Ann-Christin,Bartels,Ann-Christin Bartels,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+126,Annabell,Barthel,Annabell Barthel,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+127,Thomas,Bäumer,Thomas Bäumer,False,Datenmanagement,,Forschungsmanagement
+128,Eckhard,Klieme,Eckhard Klieme,False,Schul- und Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+129,Susanne,Kuger,Susanne Kuger,False,Vergleichende Bildungs- und Sozialforschung,,Bildung & Erziehungswissenschaft
+130,Ludwig,Stecher,Ludwig Stecher,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+131,Olaf,Struck,Olaf Struck,False,Arbeitswissenschaft,,Ökonomie & Arbeitsmarkt
+132,Jürgen,Baumert,Jürgen Baumert,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+133,Michael,Becker,Michael Becker,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+134,Malte,Jansen,Malte Jansen,False,Pädagogische Psychologie,,Psychologie
+135,Gabriel,Nagy,Gabriel Nagy,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+136,Sonja,Bayer,Sonja Bayer,False,Forschungsdatenmanagement,,Forschungsmanagement
+137,Katarina,Blask,Katarina Blask,False,Datenmanagement,,Forschungsmanagement
+138,Timo,Gnambs,Timo Gnambs,False,Survey-Methodologie,,Methoden & Statistik
+139,Débora,Maehler,Débora Maehler,False,Entwicklungspsychologie,,Psychologie
+140,Alexia,Meyermann,Alexia Meyermann,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+141,Claudia,Neuendorf,Claudia Neuendorf,False,Schulforschung,,Bildung & Erziehungswissenschaft
+142,Michael,Bayer,Michael Bayer,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+143,Birgit,Becker,Birgit Becker,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+144,Cornelia,Gresch,Cornelia Gresch,False,Inklusionsforschung,,Bildung & Erziehungswissenschaft
+145,Thomas,Zimmermann,Thomas Zimmermann,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+146,Dominik,Becker,Dominik Becker,False,Berufsbildungsforschung,,Bildung & Erziehungswissenschaft
+147,Moritz,Fleischmann,Moritz Fleischmann,False,Pädagogische Psychologie,,Psychologie
+148,Katarina,Weßling,Katarina Weßling,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+149,Benjamin,Nagengast,Benjamin Nagengast,False,Pädagogische Psychologie,,Psychologie
+150,Ulrich,Trautwein,Ulrich Trautwein,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+151,Pia,Schober,Pia Schober,False,Soziologie,,Soziologie & Gesellschaft
+152,Kristin,Schotte,Kristin Schotte,False,Integrationsforschung,,Migration & Integration
+153,Aileen,Edele,Aileen Edele,False,Integrationsforschung,,Migration & Integration
+154,Janina,Beckmann,Janina Beckmann,False,Berufsbildungsforschung,,Bildung & Erziehungswissenschaft
+155,Alexandra,Wicht,Alexandra Wicht,False,Sozialpädagogik,,Soziologie & Gesellschaft
+156,Matthias,Siembab,Matthias Siembab,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+157,Andreas,Behr,Andreas Behr,False,Statistik,,Methoden & Statistik
+158,Marco,Giese,Marco Giese,False,Statistik,,Methoden & Statistik
+159,Hervé D.,Teguim K.,Hervé D. Teguim K.,False,Statistik,,Methoden & Statistik
+160,Katja,Theune,Katja Theune,False,Statistik,,Methoden & Statistik
+161,Ursula,Beicht,Ursula Beicht,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+162,Günter,Walden,Günter Walden,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+163,Loreen,Beier,Loreen Beier,False,Migrationsforschung,,Migration & Integration
+164,Alessandra,Minello,Alessandra Minello,False,Demographie,,Demographie & Lebensverlauf
+165,Wilfred,Uunk,Wilfred Uunk,False,Makro-Soziologie,,Soziologie & Gesellschaft
+166,Magdalena,Pratter,Magdalena Pratter,False,Soziologie,,Soziologie & Gesellschaft
+167,Gordey,Yastrebov,Gordey Yastrebov,False,Demografie,,Demographie & Lebensverlauf
+168,Sarah,Beierle,Sarah Beierle,False,Kindheits- und Jugendsoziologie,,Soziologie & Gesellschaft
+169,Karen,Hemming,Karen Hemming,False,Kindheits- und Jugendforschung,,Soziologie & Gesellschaft
+170,Sandra,Hümmer,Sandra Hümmer,False,Soziologie,,Soziologie & Gesellschaft
+171,Margot,Belet,Margot Belet,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+172,Yannick,Stelter,Yannick Stelter,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+173,Stefan,Kühne,Stefan Kühne,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+174,Robin,Benz,Robin Benz,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+175,Merike,Darmody,Merike Darmody,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+176,Emer,Smyth,Emer Smyth,False,Empirische Soziologie,,Soziologie & Gesellschaft
+177,Karin,Berendes,Karin Berendes,False,Logopädie,,Psychologie
+178,Wolfgang,Wagner,Wolfgang Wagner,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+179,Detmar,Meurers,Detmar Meurers,False,Computerlinguistik,,"Medien, Digitalisierung & Technik"
+180,Tobias,Linberg,Tobias Linberg,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+181,Doreen,Müller,Doreen Müller,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+182,Sebastian E.,Wenz,Sebastian E. Wenz,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+183,Thorsten,Schneider,Thorsten Schneider,False,Vergleich moderner Gegenwartsgesellschaften,,Soziologie & Gesellschaft
+184,Michael,Bergrab,Michael Bergrab,False,Survey-Statistik,,Methoden & Statistik
+185,Francesco,Berlingieri,Francesco Berlingieri,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+186,Julia,Heigle,Julia Heigle,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+187,Friedhelm,Pfeiffer,Friedhelm Pfeiffer,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+188,Holger,Stichnoth,Holger Stichnoth,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+189,André,Diegmann,André Diegmann,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+190,Maresa,Sprietsma,Maresa Sprietsma,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+191,Kris-Stephen,Besa,Kris-Stephen Besa,False,Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+192,Sandra,Vietgen,Sandra Vietgen,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+193,Tanja,Betz,Tanja Betz,False,Kindheitsforschung,,Soziologie & Gesellschaft
+194,Marina,Bonanati,Marina Bonanati,False,Grundschulpädagogik,,Bildung & Erziehungswissenschaft
+195,Nicoletta,Eunicke,Nicoletta Eunicke,False,Kindheitsforschung,,Soziologie & Gesellschaft
+196,Nicole,Gölz,Nicole Gölz,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+197,Laura,Layer,Laura Layer,False,Kindheitsforschung,,Soziologie & Gesellschaft
+198,Florian,Wohlkinger,Florian Wohlkinger,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+199,Martin,Biewen,Martin Biewen,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+200,Madalina,Tapalaga,Madalina Tapalaga,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+201,Stephan,Bischof,Stephan Bischof,False,Lebensverlaufsforschung,,Demographie & Lebensverlauf
+202,Felix,Bittmann,Felix Bittmann,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+203,Steffen,Schindler,Steffen Schindler,False,Bildung und Arbeit im Lebensverlauf,,Demographie & Lebensverlauf
+204,Olivia,Mantwill,Olivia Mantwill,False,Soziologie,,Soziologie & Gesellschaft
+205,Elif,Sari,Elif Sari,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+206,Frank,Goßmann,Frank Goßmann,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+207,Jonna M.,Blanck,Jonna M. Blanck,False,Pädagogische Rehabilitationswissenschaft,,Gesundheit & Wohlbefinden
+208,Laura,Menze,Laura Menze,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+209,Jo,Blanden,Jo Blanden,False,Ökonomische Bildungsforschung,,Bildung & Erziehungswissenschaft
+210,Matthias,Doepke,Matthias Doepke,False,Familienökonomik,,Ökonomie & Arbeitsmarkt
+211,Jan,Stuhler,Jan Stuhler,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+212,Inge,Blatt,Inge Blatt,False,Deutschdidaktik,,Fachdidaktiken
+213,Anna,Prosch,Anna Prosch,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+214,Sarah,Frahm,Sarah Frahm,False,Erziehungswissenschaft,,Bildung & Erziehungswissenschaft
+215,Stephan,Jarsinski,Stephan Jarsinski,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+216,Andreas,Voss,Andreas Voss,False,Psychologische Methodenlehre,,Methoden & Statistik
+217,Werner,Prosch,Werner Prosch,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+218,Nevena,Kulic,Nevena Kulic,False,Soziale Stratifikationsforschung,,Soziologie & Gesellschaft
+219,Jan,Skopek,Jan Skopek,False,Soziologie,,Soziologie & Gesellschaft
+220,Moris,Triventi,Moris Triventi,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+221,Elina,Kilpi-Jakonen,Elina Kilpi-Jakonen,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+222,Daniela,Vono De Vilhena,Daniela Vono De Vilhena,False,Demografie,,Demographie & Lebensverlauf
+223,Sandra,Buchholz,Sandra Buchholz,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+224,Wilfried,Bos,Wilfried Bos,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+225,Pia,Blossfeld,Pia Blossfeld,False,Soziologie,,Soziologie & Gesellschaft
+226,Gwendolin,Blossfeld,Gwendolin Blossfeld,False,Bildungswissenschaft,,Bildung & Erziehungswissenschaft
+227,Jutta,Von Maurice,Jutta Von Maurice,False,Studienmanagement,,Forschungsmanagement
+228,Yuliya,Kosyakova,Yuliya Kosyakova,False,Migrationsforschung,,Migration & Integration
+229,Eckhardt,Bode,Eckhardt Bode,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+230,Ingrid,Ott,Ingrid Ott,False,Wirtschaftspolitik,,Politikwissenschaft
+231,Stephan,Brunow,Stephan Brunow,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+232,Alina,Sorgner,Alina Sorgner,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+233,Timm,Bönke,Timm Bönke,False,Wirtschaftspolitik,,Politikwissenschaft
+234,Luisa,Hammer,Luisa Hammer,False,Migrationsforschung,,Migration & Integration
+235,Dominik,Hügle,Dominik Hügle,False,Ökonomik,,Ökonomie & Arbeitsmarkt
+236,Nadja,Bömmel,Nadja Bömmel,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+237,Guido,Heineck,Guido Heineck,False,Mikroökonomik,,Ökonomie & Arbeitsmarkt
+238,Andrä,Wolter,Andrä Wolter,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+239,Gunther,Dahm,Gunther Dahm,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+240,Christian,Kerst,Christian Kerst,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+241,Camilla,Borgna,Camilla Borgna,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+242,Emanuela,Struffolino,Emanuela Struffolino,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+243,Lena,Braas,Lena Braas,False,Schul- und Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+244,Alyssa,Grecu,Alyssa Grecu,False,Schulforschung,,Bildung & Erziehungswissenschaft
+245,Julia,Mori,Julia Morinaj,False,Schulforschung,Morinaj,Bildung & Erziehungswissenschaft
+246,Tina,Hascher,Tina Hascher,False,Schulforschung,,Bildung & Erziehungswissenschaft
+247,Andreas,Hadjar,Andreas Hadjar,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+248,Julia-Carolin,Osada,Julia-Carolin Brachem,False,Hochschulforschung,Brachem,Bildung & Erziehungswissenschaft
+249,Florian,Aschinger,Florian Aschinger,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+250,Gritt,Fehring,Gritt Fehring,False,Schulforschung,,Bildung & Erziehungswissenschaft
+251,Michael,Grotheer,Michael Grotheer,False,Schulforschung,,Bildung & Erziehungswissenschaft
+252,Sonja,Herrmann,Sonja Herrmann,False,Datenmanagement,,Forschungsmanagement
+253,Marie,Kühn,Marie Kühn,False,Surveymethodologie,,Methoden & Statistik
+254,Uta,Liebeskind,Uta Liebeskind,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+255,Andreas,Ortenburger,Andreas Ortenburger,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+256,Hildegard,Schaeper,Hildegard Schaeper,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+257,Tobias,Brändle,Tobias Brändle,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+258,Philipp,Kugler,Philipp Kugler,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+259,Anne,Zühlke,Anne Zühlke,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+260,Naemi D.,Brandt,Naemi D. Brandt,False,Entwicklungspsychologie,,Psychologie
+261,Clemens,Lechner,Clemens Lechner,False,Surveymethodologie,,Methoden & Statistik
+262,Julia,Tetzner,Julia Tetzner,False,Entwicklungspsychologie,,Psychologie
+263,Beatrice,Rammstedt,Beatrice Rammstedt,False,Psychologie,,Psychologie
+264,Edith,Braun,Edith Braun,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+265,Sebastian Till,Braun,Sebastian Till Braun,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+266,Lilo,Brockmann,Lilo Brockmann,True,Erziehungswissenschaft,,Bildung & Erziehungswissenschaft
+267,Hanna,Brosch,Hanna Brosch,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+268,Katharina,Heisig,Katharina Heisig,False,Familienpolitik,,Politikwissenschaft
+269,Larissa,Zierow,Larissa Zierow,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+270,Martin,Brunner,Martin Brunner,False,Quantitative Methodenforschung,,Methoden & Statistik
+271,Sophie E.,Stallasch,Sophie E. Stallasch,False,Survey-Statistik,,Methoden & Statistik
+272,Oliver,Lüdtke,Oliver Lüdtke,False,Pädagogisch-Psychologische Methoden,,Methoden & Statistik
+273,Christian,Brzinsky-Fay,Christian Brzinsky-Fay,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+274,Heike,Solga,Heike Solga,False,Soziologie,,Soziologie & Gesellschaft
+275,Antonia,Schier,Antonia Schier,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+276,Markus,Nester,Markus Nester,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+277,Hartmut,Ditton,Hartmut Ditton,False,Pädagogik,,Bildung & Erziehungswissenschaft
+278,Frauke,Peter,Frauke Peter,False,Bildungsverläufe,,Bildung & Erziehungswissenschaft
+279,Florian J.,Buehler,Florian J. Buehler,False,Entwicklungspsychologie,,Psychologie
+280,Ulrich,Orth,Ulrich Orth,False,Entwicklungspsychologie,,Psychologie
+281,Samantha,Krauss,Samantha Krauss,False,Entwicklungspsychologie,,Psychologie
+282,Claudia M.,Roebers,Claudia M. Roebers,False,Entwicklungspsychologie,,Psychologie
+283,Daniel,Buhr,Daniel Buhr,False,Policy-Analyse,,Politikwissenschaft
+284,Andreas,Koch,Andreas Koch,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+285,Tobias,König,Tobias König,False,Wirtschaftsgeografie,,Geographie
+286,Natalie,Herdegen,Natalie Laub,False,Übergänge im Lebensverlauf,Laub,Demographie & Lebensverlauf
+287,Marcel,Reiner,Marcel Reiner,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+288,Erzsébet,Bukodi,Erzsébet Bukodi,False,Bildungswissenschaft,,Bildung & Erziehungswissenschaft
+289,Ferdinand,Eibl,Ferdinand Eibl,False,Politische Ökonomie,,Politikwissenschaft
+290,Sonia,Marzadro,Sonia Marzadro,False,Soziologie,,Soziologie & Gesellschaft
+291,Susanne,Wahler,Susanne Wahler,False,Arbeitswissenschaft,,Ökonomie & Arbeitsmarkt
+292,Robert,Erikson,Robert Erikson,False,Soziologie,,Soziologie & Gesellschaft
+293,Antonio,Schizzerotto,Antonio Schizzerotto,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+294,Lars,Burghardt,Lars Burghardt,False,Frühe Bildung,,Bildung & Erziehungswissenschaft
+295,Elisa,Oppermann,Elisa Oppermann,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+296,Katharina,Kluczniok,Katharina Kluczniok,False,Frühe Bildung,,Bildung & Erziehungswissenschaft
+297,Anja,Linberg,Anja Linberg,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+298,Simone,Lehrl,Simone Lehrl,False,Elementarbildung,,Bildung & Erziehungswissenschaft
+299,Kira,Konrad-Ristau,Kira Konrad-Ristau,False,Entwicklungspsychologie,,Psychologie
+300,Jannis,Burkhard,Jannis Burkhard,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+301,Jan,Scharf,Jan Scharf,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+302,Jingyu,Zhang,Jingyu Zhang,False,Survey-Statistik,,Methoden & Statistik
+303,Lara,Verstrepen,Lara Verstrepen,False,Bildungswissenschaft,,Bildung & Erziehungswissenschaft
+304,David,Glauser,David Glauser,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+305,Katja,Scharenberg,Katja Scharenberg,False,Pädagogik,,Bildung & Erziehungswissenschaft
+306,Birgit,Ziegler,Birgit Ziegler,False,Berufspädagogik,,Bildung & Erziehungswissenschaft
+307,Christian,Michaelis,Christian Michaelis,False,Wirtschaftspädagogik,,Bildung & Erziehungswissenschaft
+308,Julia,Lischewski,Julia Lischewski,False,Quantitative Methoden,,Methoden & Statistik
+309,Susan,Seeber,Susan Seeber,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+310,Richard,Nennstiel,Richard Nennstiel,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+311,Elisabeth,Maué,Elisabeth Maué,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+312,Philine,Krebs,Philine Krebs,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+313,Jürgen,Seifried,Jürgen Seifried,False,Wirtschaftspädagogik,,Bildung & Erziehungswissenschaft
+314,Tobias J.M.,Büttner,Tobias J.M. Büttner,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+315,Joseph W.,Sakshaug,Joseph W. Sakshaug,False,Survey-Statistik,,Methoden & Statistik
+316,Sarah,Carol,Sarah Carol,False,Migrationsforschung,,Migration & Integration
+317,Bastian,Carstensen,Bastian Carstensen,False,Pädagogische Psychologie,,Psychologie
+318,Uta,Klusmann,Uta Klusmann,False,Pädagogische Psychologie,,Psychologie
+319,Johann,Carstensen,Johann Carstensen,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+320,Anja,Gottburgsen,Anja Gottburgsen,False,Forschungsdaten,,Forschungsmanagement
+321,Monika,Jungbauer-Gans,Monika Jungbauer-Gans,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+322,Adrian,Chadi,Adrian Chadi,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+323,Marco,De Pinto,Marco De Pinto,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+324,Gabriel,Schultze,Gabriel Schultze,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+325,Jianan,Chen,Jianan Chen,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+326,Johan,Braeken,Johan Braeken,False,Quantitative Methodenforschung,,Methoden & Statistik
+327,Jenny,Chesters,Jenny Chesters,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+328,Jonathan,Smith,Jonathan Smith,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+329,Jana,Costa,Jana Costa,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+330,Barbara,Drechsel,Barbara Drechsel,False,Pädagogische Psychologie,,Psychologie
+331,Annette,Scheunpflug,Annette Scheunpflug,False,Pädagogik,,Bildung & Erziehungswissenschaft
+332,Claudia,Kühn,Claudia Kühn,False,Lern- und Bildungsforschung,,Bildung & Erziehungswissenschaft
+333,Katharina,Laws,Katharina Loos,False,Schulische Bildung,Loos,Bildung & Erziehungswissenschaft
+334,Sebastian,Franz,Sebastian Franz,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+335,Claudia,Menge,Claudia Menge,False,Schulforschung,,Bildung & Erziehungswissenschaft
+336,Johanna,Weselek,Johanna Weselek,False,Globales Lernen,,Bildung & Erziehungswissenschaft
+337,Colin,Cramer,Colin Cramer,True,Schulpädagogik,,Bildung & Erziehungswissenschaft
+338,Johannes,König,Johannes König,True,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+339,Martin,Rothland,Martin Rothland,True,Schulpädagogik,,Bildung & Erziehungswissenschaft
+340,Sigrid,Blömeke,Sigrid Blömeke,True,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+341,Sarah C.,Dahmann,Sarah C. Dahmann,False,Sozialökonomik,,Ökonomie & Arbeitsmarkt
+343,Andreas,Damelang,Andreas Damelang,False,Arbeitsmarktsoziologie,,Ökonomie & Arbeitsmarkt
+344,Kevin,Ruf,Kevin Ruf,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+345,Kasimir,Dederichs,Kasimir Dederichs,False,Gemeinschaftssoziologie,,Soziologie & Gesellschaft
+346,Nan Dirk,De Graaf,Nan Dirk De Graaf,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+347,Christian,Deindl,Christian Deindl,False,Gesundheitssoziologie,,Soziologie & Gesellschaft
+348,Katharina,Diehl,Katharina Diehl,False,Public Health,,Gesundheit & Wohlbefinden
+349,Jacob,Spallek,Jacob Spallek,False,Gesundheitswissenschaften,,Gesundheit & Wohlbefinden
+350,Matthias,Richter,Matthias Richter,False,Medizinische Soziologie,,Soziologie & Gesellschaft
+351,Wiebke,Schüttig,Wiebke Schüttig,False,Gesundheitsökonomik,,Ökonomie & Arbeitsmarkt
+352,Petra,Rattay,Petra Rattay,False,Public Health,,Gesundheit & Wohlbefinden
+353,Nico,Dragano,Nico Dragano,False,Medizinische Soziologie,,Soziologie & Gesellschaft
+354,Claudia R.,Pischke,Claudia R. Pischke,False,Public Health,,Gesundheit & Wohlbefinden
+355,Sanneke,De La Rie,Sanneke De La Rie,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+356,Elizabeth,Washbrook,Elizabeth Washbrook,False,Quantitative Sozialwissenschaften,,Soziologie & Gesellschaft
+357,Valentina,Perinetti Casoni,Valentina Perinetti Casoni,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+358,Jane,Waldfogel,Jane Waldfogel,False,Kindheits- und Jugendforschung,,Soziologie & Gesellschaft
+359,Sarah,Kwon,Sarah Kwon,False,Soziale Arbeit,,Soziologie & Gesellschaft
+360,Jascha,Dräger,Jascha Dräger,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+361,Melanie,Olczyk,Melanie Olczyk,False,Integrationsforschung,,Migration & Integration
+362,Césarine,Boinet,Césarine Boinet,False,Genderökonomik,,Ökonomie & Arbeitsmarkt
+363,Renske,Keizer,Renske Keizer,False,Familiensoziologie,,Soziologie & Gesellschaft
+364,Tobias,Deribo,Tobias Deribo,False,Kompetenzerfassung,,Bildung & Erziehungswissenschaft
+365,Frank,Goldhammer,Frank Goldhammer,False,Student-Assessment,,Bildung & Erziehungswissenschaft
+366,Ulf,Kroehne,Ulf Kroehne,False,Forschungsmethodik,,Methoden & Statistik
+367,Jonas,Detemple,Jonas Detemple,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+368,,Deutsches Jugendinstitut e. V,Deutsches Jugendinstitut e. V,False,Kindheits- und Jugendforschung,,Soziologie & Gesellschaft
+369,Jeffrey M.,DeVries,Jeffrey M. DeVries,False,Bildungswissenschaft,,Bildung & Erziehungswissenschaft
+370,Carsten,Szardenings,Carsten Szardenings,False,Biometrie,,Methoden & Statistik
+371,Philipp,Doebler,Philipp Doebler,False,Statistik,,Methoden & Statistik
+372,Markus,Gebhardt,Markus Gebhardt,False,Sonderpädagogik,,Bildung & Erziehungswissenschaft
+373,Fani,Lauermann,Fani Lauermann,False,Pädagogische Psychologie,,Psychologie
+374,Katharina,Rathmann,Katharina Rathmann,False,Gesundheitsberichterstattung,,Gesundheit & Wohlbefinden
+375,Mona,Dian,Mona Dian,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+376,Hans,Dietrich,Hans Dietrich,False,Lebensverlaufsforschung,,Demographie & Lebensverlauf
+377,Alexander,Patzina,Alexander Patzina,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+378,Sara,Kretschmer,Sara Kretschmer,False,Lebensverlaufsforschung,,Demographie & Lebensverlauf
+379,Sibylle,Elsässer,Sibylle Elsässer,False,Pädagogische Psychologie,,Psychologie
+380,Veronika,Stahn,Veronika Stahn,False,Pädagogik,,Bildung & Erziehungswissenschaft
+381,Stephan,Dochow-Sondershaus,Stephan Dochow,False,Politische Soziologie,Dochow,Politikwissenschaft
+382,Sebastian,Neumeyer,Sebastian Neumeyer,False,Bildungsentscheidungen,,Bildung & Erziehungswissenschaft
+383,Dieter,Dohmen,Dieter Dohmen,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+384,Matthias,Sandau,Matthias Sandau,False,Berufliche Weiterbildung,,Bildung & Erziehungswissenschaft
+385,Jörg,Dollmann,Jörg Dollmann,False,Integrationsforschung,,Migration & Integration
+386,Lena,Arnold,Lena Arnold,False,Familiensoziologie,,Soziologie & Gesellschaft
+387,Andreas,Horr,Andreas Horr,False,Migrationsforschung,,Migration & Integration
+388,Aashna,Doshi,Aashna Doshi,False,Entwicklungspsychologie,,Psychologie
+389,Sascha,Dos Santos,Sascha Dos Santos,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+390,Martina,Dieckhoff,Martina Dieckhoff,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+391,Martin,Ehlert,Martin Ehlert,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+392,Antje,Mertens,Antje Mertens,False,Erwerbsverläufe,,Ökonomie & Arbeitsmarkt
+393,Hideo,Akabayashi,Hideo Akabayashi,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+394,Anne,Solaz,Anne Solaz,False,Bevölkerungsökonomik,,Ökonomie & Arbeitsmarkt
+395,Yuriko,Kameyama,Yuriko Kameyama,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+396,Kayo,Nozaki,Kayo Nozaki,False,Mikroökonomik,,Ökonomie & Arbeitsmarkt
+397,Shinpei,Sano,Shinpei Sano,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+398,Alexandra,Sheridan,Alexandra Sheridan,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+399,Chizuru,Shikishima,Chizuru Shikishima,False,Psychologie,,Psychologie
+400,Klaus,Pforr,Klaus Pforr,False,Soziologie,,Soziologie & Gesellschaft
+401,Leo,Röhlke,Leo Röhlke,False,Soziale Stratifikation,,Soziologie & Gesellschaft
+402,Alina,Dippel,Alina Dippel,False,Sozialforschung,,Soziologie & Gesellschaft
+403,Nora,Müller,Nora Müller,False,Soziologie,,Soziologie & Gesellschaft
+404,Jörg,Drechsler,Jörg Drechsler,False,Statistische Methoden,,Methoden & Statistik
+405,Christoph,Duchhardt,Christoph Duchhardt,False,Didaktik der Mathematik,,Fachdidaktiken
+406,Anne-Katrin,Jordan,Anne-Katrin Jordan,False,Fachdidaktik,,Fachdidaktiken
+407,Timo,Ehmke,Timo Ehmke,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+408,Insa,Schnittjer,Insa Schnittjer,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+409,Tabea,Durda,Tabea Durda,False,Lesekompetenz,,Bildung & Erziehungswissenschaft
+410,Britta,Gauly,Britta Gauly,False,Kompetenzen,,Bildung & Erziehungswissenschaft
+411,Klaus,Buddeberg,Klaus Buddeberg,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+412,Susanne,Ebert,Susanne Ebert,False,Entwicklungspsychologie,,Psychologie
+413,Candida,Peterson,Candida Peterson,False,Psychologie,,Psychologie
+414,Virginia,Slaughter,Virginia Slaughter,False,Kognitive Psychologie,,Psychologie
+415,Christian,Ebner,Christian Ebner,False,Arbeitssoziologie,,Ökonomie & Arbeitsmarkt
+416,Marcus,Eckelt,Marcus Eckelt,False,Berufsbildung,,Bildung & Erziehungswissenschaft
+417,Jennifer,Schauer,Jennifer Schauer,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+418,Thomas,Eckert,Thomas Eckert,True,Pädagogik,,Bildung & Erziehungswissenschaft
+419,Burkhard,Gniewosz,Burkhard Gniewosz,True,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+420,Petra,Stanat,Petra Stanat,False,Integrationsforschung,,Migration & Integration
+421,Sebastian,Kempert,Sebastian Kempert,False,Grundschulpädagogik,,Bildung & Erziehungswissenschaft
+422,Julian,Seuring,Julian Seuring,False,Migrationsforschung,,Migration & Integration
+423,Cornelia,Kristen,Cornelia Kristen,False,Sozialstrukturanalyse,,Soziologie & Gesellschaft
+424,Ashenafi K.,Edossa,Ashenafi K. Edossa,False,Pädagogische Psychologie,,Psychologie
+425,Kathrin,Lockl,Kathrin Lockl,False,Pädagogische Psychologie,,Psychologie
+426,Insa,Grüttgen,Insa Grüttgen,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+427,Luisa,Kunze,Luisa Kunze,False,Digitalisierung,,"Medien, Digitalisierung & Technik"
+428,Tobias,Ortmann,Tobias Ortmann,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+429,Leonie,Oehmig,Leonie Oehmig,False,Soziologie,,Soziologie & Gesellschaft
+430,Ann-Katrin,Van Den Ham,Ann-Katrin Van Den Ham,False,Methoden der empirischen Bildungsforschung,,Bildung & Erziehungswissenschaft
+431,Christine,Sälzer,Christine Sälzer,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+432,Jörg,Heine,Jörg Heine,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+433,Manfred,Prenzel,Manfred Prenzel,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+434,Lisa,Ehrtmann,Lisa Ehrtmann,False,Psychologie,,Psychologie
+435,Susanne,Elsas,Susanne Elsas,False,Familienökonomik,,Ökonomie & Arbeitsmarkt
+436,Benjamin,Elsner,Benjamin Elsner,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+437,Florian,Wozny,Florian Wozny,False,Ökonometrie,,Ökonomie & Arbeitsmarkt
+438,Laura,Engler,Laura Engler,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+439,Andrea,Westphal,Andrea Westphal,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+440,Steve R.,Entrich,Steve R. Entrich,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+441,Wolfgang,Lauterbach,Wolfgang Lauterbach,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+442,Bernhard,Ertl,Bernhard Ertl,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+443,Florian G.,Hartmann,Florian G. Hartmann,False,Bildungswissenschaft,,Bildung & Erziehungswissenschaft
+444,Anja,Wunderlich,Anja Wunderlich,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+445,Hartmut,Esser,Hartmut Esser,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+446,Kerstin,Hoenig,Kerstin Hoenig,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+447,Paul,Fabian,Paul Fabian,False,Längsschnittliche Bildungsforschung,,Bildung & Erziehungswissenschaft
+448,Martin,Goy,Martin Goy,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+449,Kerstin,Naujokat,Kerstin Naujokat,False,Schulforschung,,Bildung & Erziehungswissenschaft
+450,Susanne,Falk,Susanne Falk,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+451,Maximiliane,Marschall,Maximiliane Marschall,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+452,Franziska,Fellenberg,Franziska Fellenberg,False,Studienmanagement,,Forschungsmanagement
+453,Anna,Horn,Anna Horn,False,Erhebungskoordination,,Forschungsmanagement
+454,Michael,Mudiappa,Michael Mudiappa,False,Schulforschung,,Bildung & Erziehungswissenschaft
+455,Heiko,Sibberns,Heiko Sibberns,False,Bildungsmonitoring,,Bildung & Erziehungswissenschaft
+456,Birgit,Jesske,Birgit Jesske,False,Survey-Methodologie,,Methoden & Statistik
+457,Doris,Hess,Doris Hess,False,Angewandte Sozialforschung,,Soziologie & Gesellschaft
+458,Tabea,Feseker,Tabea Feseker,False,Bildungsmanagement,,Bildung & Erziehungswissenschaft
+459,Isabelle,Fiedler,Isabelle Fiedler,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+460,Melanie,Fischer-Browne,Melanie Fischer-Browne,False,Bildungsentscheidungen,,Bildung & Erziehungswissenschaft
+461,Lea,Ahrens,Lea Ahrens,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+462,Brigitte,Schels,Brigitte Schels,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+463,Luise,Fischer,Luise Fischer,False,Pädagogische Psychologie,,Psychologie
+464,Theresa,Rohm,Theresa Rohm,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+465,Bernd,Fitzenberger,Bernd Fitzenberger,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+466,Holger,Bonin,Holger Bonin,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+467,Annette,Hillerich-Sigg,Annette Hillerich,False,Arbeitsmarktökonomik,Hillerich,Ökonomie & Arbeitsmarkt
+468,Regina,Flake,Regina Flake,False,Berufliche Qualifizierung und Fachkräfte,,Ökonomie & Arbeitsmarkt
+469,Lydia,Malin,Lydia Malin,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+470,Paula,Risius,Paula Risius,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+471,Matthias,Flohr,Matthias Flohr,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+472,Paula,Protsch,Paula Protsch,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+473,Lea,Fobel,Lea Fobel,False,Kulturelle Bildung,,Bildung & Erziehungswissenschaft
+474,Nina,Kolleck,Nina Kolleck,False,Bildungsforschung und -politik,,Bildung & Erziehungswissenschaft
+475,Andrea G.,Forster,Andrea G. Forster,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+476,Didier,Fouarge,Didier Fouarge,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+477,Sina,Fackler,Sina Fackler,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+478,Jennifer,Paetsch,Jennifer Paetsch,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+479,Stefanie,Gäckle,Stefanie Gäckle,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+480,Micha-Josia,Freund,Micha-Josia Freund,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+481,Jan-David,Freund,Jan-David Freund,False,Psychologie,,Psychologie
+482,Teresa,Friedrich,Teresa Friedrich,False,Lebenslanges Lernen,,Bildung & Erziehungswissenschaft
+483,Astrid,Schütz,Astrid Schütz,False,Persönlichkeitspsychologie,,Psychologie
+484,Sebastian,Schongen,Sebastian Schongen,False,Lebenslanges Lernen,,Bildung & Erziehungswissenschaft
+485,Nicole Jacqueline,Fritzler,Nicole Jacqueline Fritzler,False,Pädagogische Psychologie,,Psychologie
+486,Elke,Wild,Elke Wild,False,Pädagogische Psychologie,,Psychologie
+487,Jutta,Maurice,Jutta Maurice,False,Studienmanagement,,Forschungsmanagement
+488,Tim,Fütterer,Tim Fütterer,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+489,Nicolas,Hübner,Nicolas Hübner,False,Schulpädagogik,,Bildung & Erziehungswissenschaft
+490,Christian,Fischer,Christian Fischer,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+491,Kathleen,Stürmer,Kathleen Stürmer,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+492,Michael,Gebel,Michael Gebel,False,Life Course Research,,Demographie & Lebensverlauf
+493,Susanne,Schwab,Susanne Schwab,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+494,Marco,Hessels,Marco Hessels,False,Förderpädagogik,,Bildung & Erziehungswissenschaft
+495,Karin,Gehrer,Karin Gehrer,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+496,Karin Sørlie,Street,Karin Sørlie Street,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+497,Ariel Mariah,Lindorff,Ariel Mariah Lindorff,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+498,Ruth Maria,Schüler,Ruth Maria Schüler,False,Soziale Sicherung und Verteilung,,Soziologie & Gesellschaft
+500,Sarah,Gentrup,Sarah Gentrup,False,Qualitätsentwicklung im Bildungswesen,,Bildung & Erziehungswissenschaft
+501,Georg,Lorenz,Georg Lorenz,False,Integrationsforschung,,Migration & Integration
+502,Sara,Geven,Sara Geven,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+503,Thomas,Gfrörer,Thomas Gfrörer,False,Pädagogische Psychologie,,Psychologie
+504,Gundula,Stoll,Gundula Stoll,False,Pädagogische Psychologie,,Psychologie
+505,Sven,Rieger,Sven Rieger,False,Pädagogische Psychologie,,Psychologie
+506,Gaia,Ghirardi,Gaia Ghirardi,False,Soziale Stratifikation,,Soziologie & Gesellschaft
+507,Tina,Baier,Tina Baier,False,Soziale Ungleichheitsforschung,,Soziologie & Gesellschaft
+508,Saikat,Ghosh,Saikat Ghosh,False,Entwicklungsökonomik,,Ökonomie & Arbeitsmarkt
+509,Lydia,Kleine,Lydia Kleine,False,Bildungsentscheidungen,,Bildung & Erziehungswissenschaft
+510,Carlos J.,Gil-Hernández,Carlos J. Gil-Hernández,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+511,Mar C.,Espadafor,Mar C. Espadafor,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+512,Judith,Glaesser,Judith Glaesser,False,Survey-Methodologie,,Methoden & Statistik
+513,Ulrich,Schroeders,Ulrich Schroeders,False,Psychologische Diagnostik,,Methoden & Statistik
+514,Anna,Scharl,Anna Scharl,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+515,Lukasz,Stasielowicz,Lukasz Stasielowicz,False,Psychologische Methoden,,Methoden & Statistik
+516,Markus,Appel,Markus Appel,False,Medienpsychologie,,"Medien, Digitalisierung & Technik"
+517,Anna,Hawrot,Anna Hawrot,False,Pädagogische Psychologie,,Psychologie
+518,Mariann,Schwaß,Mariann Schwaß,False,Psychologische Methoden,,Methoden & Statistik
+519,Barbara,Stiglbauer,Barbara Stiglbauer,False,Sozialpsychologie,,Psychologie
+520,Wolfgang,Lenhard,Wolfgang Lenhard,False,Pädagogische Psychologie,,Psychologie
+521,Janka,Goldan,Janka Goldan,False,Sonderpädagogik,,Bildung & Erziehungswissenschaft
+522,Katja,Görlitz,Katja Görlitz,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+523,Merlin,Penny,Merlin Penny,False,Ökonomik,,Ökonomie & Arbeitsmarkt
+524,Sylvi,Rzepka,Sylvi Rzepka,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+525,Mona,Granato,Mona Granato,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+526,Annalisa,Schnitzler,Annalisa Schnitzler,False,Bildungs- und Berufsorientierung,,Bildung & Erziehungswissenschaft
+527,Julia S.,Granderath,Julia S. Granderath,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+528,Andreas,Martin,Andreas Martin,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+529,Laura,Froehlich,Laura Froehlich,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+530,Stefan,Stürmer,Stefan Stürmer,False,Sozialpsychologie,,Psychologie
+531,Michael,Grätz,Michael Grätz,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+532,Michael,Kanders,Michael Kanders,False,Survey-Methodologie,,Methoden & Statistik
+533,Poldi,Kuhl,Poldi Kuhl,True,Pädagogische Psychologie,,Psychologie
+534,Michael,Grosche,Michael Grosche,True,Rehabilitationsforschung,,Gesundheit & Wohlbefinden
+535,Mariana,Grgic,Mariana Grgic,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+536,Christiane,Gross,Christiane Gross,False,Bildungsrenditen,,Bildung & Erziehungswissenschaft
+537,Andreas,Jobst,Andreas Jobst,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+538,Johannes,Schwarze,Johannes Schwarze,False,Empirische Mikroökonomik,,Ökonomie & Arbeitsmarkt
+539,Katharina,Seebaß,Katharina Seebaß,False,Sozialökonomik,,Ökonomie & Arbeitsmarkt
+540,Sarah,Grünthal,Sarah Grünthal,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+541,Julia,Kretschmann,Julia Kretschmann,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+542,Michael,Grüttner,Michael Grüttner,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+543,Philipp,Grunau,Philipp Grunau,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+544,Şeyma,Gülen,Şeyma Gülen,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+545,Karin,Guill,Karin Guill,False,Schulentwicklungsforschung,,Bildung & Erziehungswissenschaft
+546,Katharina,Müller,Katharina Müller,False,Erziehungswissenschaft,,Bildung & Erziehungswissenschaft
+547,Svenja Mareike,Schmid-Kühn,Svenja Mareike Schmid-Kühn,False,Schulentwicklungsforschung,,Bildung & Erziehungswissenschaft
+548,Fabian,Gülzau,Fabian Gülzau,False,Soziologie,,Soziologie & Gesellschaft
+549,Tamara,Gutfleisch,Tamara Gutfleisch,False,Integrationsforschung,,Migration & Integration
+550,Irena,Kogan,Irena Kogan,False,Vergleichende Sozialforschung,,Soziologie & Gesellschaft
+551,Christian,Haag,Christian Haag,False,Survey-Methodologie,,Methoden & Statistik
+552,Inga,Specht,Inga Specht,False,Gymnasialpädagogik,,Bildung & Erziehungswissenschaft
+553,Christina,Haas,Christina Haas,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+554,Kerstin,Haberkorn,Kerstin Haberkorn,False,Testdesign,,Methoden & Statistik
+555,Claudia,Hachul,Claudia Hachul,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+556,Jennifer,Lorenz,Jennifer Lorenz,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+557,Irina,Gewinner,Irina Gewinner,False,Statistische Methoden,,Methoden & Statistik
+558,Peter,Haehner,Peter Haehner,False,Differenzielle Psychologie,,Psychologie
+559,Michael D.,Krämer,Michael D. Krämer,False,Psychologie,,Psychologie
+560,Amanda J.,Wright,Amanda J. Wright,False,Persönlichkeitspsychologie,,Psychologie
+561,Wiebke,Bleidorn,Wiebke Bleidorn,False,Psychologie,,Psychologie
+562,Marion,Händel,Marion Händel,False,Pädagogische Psychologie,,Psychologie
+563,Jana,Heydrich,Jana Heydrich,False,Förderpädagogik,,Bildung & Erziehungswissenschaft
+564,Anna Erika,Hägglund,Anna Erika Hägglund,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+565,Inga,Hahn,Inga Hahn,False,Pädagogische Psychologie,,Psychologie
+566,Katrin,Schöps,Katrin Schöps,False,Fachdidaktik,,Fachdidaktiken
+568,Teresa,Haller,Teresa Haller,False,Bildungsungleichheiten,,Bildung & Erziehungswissenschaft
+569,Shally,Novita,Shally Novita,False,Pädagogische Psychologie,,Psychologie
+570,Maik,Hamjediers,Maik Hamjediers,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+571,Paul,Schmelzer,Paul Schmelzer,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+572,Philipp,Handschuh,Philipp Handschuh,False,Entwicklungspsychologie,,Psychologie
+573,Jacqueline,Kroh,Jacqueline Kroh,False,Bildungsrenditen,Lettau,Bildung & Erziehungswissenschaft
+574,Silke,Hans,Silke Hans,False,Migrationssoziologie,,Migration & Integration
+575,Eric A.,Hanushek,Eric A. Hanushek,False,Sozialökonomik,,Ökonomie & Arbeitsmarkt
+576,Marc,Piopiunik,Marc Piopiunik,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+577,Simon,Wiederhold,Simon Wiederhold,False,Bildungsrenditen,,Bildung & Erziehungswissenschaft
+578,Divan,Mouton,Divan Mouton,False,Pädagogische Psychologie,,Psychologie
+579,Andreas,Hartung,Andreas Hartung,False,Stadtsoziologie,,Geographie
+580,Steffen,Hillmert,Steffen Hillmert,False,Lebensverlaufsforschung,,Demographie & Lebensverlauf
+581,Linda I.,Haschke,Linda I. Haschke,False,Fachdidaktik,,Fachdidaktiken
+582,Nele,Kampa,Nele Kampa,False,Schulforschung,,Bildung & Erziehungswissenschaft
+583,Andrea,Hasl,Andrea Hasl,False,Survey-Methodologie,,Methoden & Statistik
+584,Manuel,Voelkle,Manuel Voelkle,False,Psychologische Methoden,,Methoden & Statistik
+585,Charles,Driver,Charles Driver,False,Computational Modelling,,"Medien, Digitalisierung & Technik"
+586,Ji,Zhou,Ji Zhou,False,Schulforschung,,Bildung & Erziehungswissenschaft
+587,Markus D.,Feuchter,Markus D. Feuchter,False,Kognitionspsychologie,,Psychologie
+588,Marie,Heijens,Marie Heijens,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+589,Kristina,Heilmann,Kristina Heilmann,False,Medizinsoziologie,,Soziologie & Gesellschaft
+590,Richard,Hinrichs,Richard Hinrichs,False,Medizinsoziologie,,Soziologie & Gesellschaft
+591,Max,Herke,Max Herke,False,Medizinische Soziologie,,Soziologie & Gesellschaft
+592,Marcel,Helbig,Marcel Helbig,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+593,Anna,Marczuk,Anna Marczuk,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+594,Norbert,Sendzik,Norbert Sendzik,False,Schulentwicklungsforschung,,Bildung & Erziehungswissenschaft
+595,Satu,Helske,Satu Helske,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+596,Jouni,Helske,Jouni Helske,False,Statistische Methoden,,Methoden & Statistik
+597,Mervi,Eerola,Mervi Eerola,False,Statistik,,Methoden & Statistik
+598,Ina,Henning,Ina Henning,False,Fachdidaktik,,Fachdidaktiken
+599,Johannes,Schult,Johannes Schult,False,Survey-Statistik,,Methoden & Statistik
+600,Golo,Henseke,Golo Henseke,False,Arbeitsökonomik,,Ökonomie & Arbeitsmarkt
+601,Christian,Nagel,Christian Nagel,False,Statistische Methoden,,Methoden & Statistik
+602,Lisa,Herrmann,Lisa Herrmann,False,Computational Social Science,,"Medien, Digitalisierung & Technik"
+603,Juliane,Kühn,Juliane Kühn,False,Empirische Wirtschaftssoziologie,,Ökonomie & Arbeitsmarkt
+604,Christian,Meißner,Christian Meißner,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+605,Madita,Nussbaumer,Madita Nussbaumer,False,Pädagogische Psychologie,,Psychologie
+606,Anke,Heyder,Anke Heyder,False,Pädagogische Psychologie,,Psychologie
+607,Nora,Heyne,Nora Heyne,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+608,Cornelia,Schoor,Cornelia Schoor,False,Kompetenzforschung,,Bildung & Erziehungswissenschaft
+609,Marie-Ann,Sengewald,Marie-Ann Sengewald,False,Psychologische Methoden und Diagnostik,,Methoden & Statistik
+610,Nora,Neuenhaus,Nora Neuenhaus,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+611,Helen,Hickmann,Helen Hickmann,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+612,Lisa Sofie,Höckel,Lisa Sofie Höckel,False,Migrationsforschung,,Migration & Integration
+613,Volker,Stocké,Volker Stocké,False,Methoden der empirischen Sozialforschung,,Methoden & Statistik
+614,Linda,Hoffmann,Linda Hoffmann,False,Berufsorientierungen,,Bildung & Erziehungswissenschaft
+615,Madlain,Hoffmann,Madlain Hoffmann,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+616,Maja,Wiest,Maja Wiest,False,Teilhabe- und Versorgungsforschung,,Gesundheit & Wohlbefinden
+617,Sarah,Widany,Sarah Widany,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+618,Katrin,Kaufmann-Kuchta,Katrin Kaufmann-Kuchta,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+619,Stefanie,Hoffmann,Stefanie Hoffmann,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+620,Veronika,Thalhammer,Veronika Thalhammer,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+621,Aiga,Von Hippel,Aiga Von Hippel,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+622,Bernhard,Schmidt-Hertha,Bernhard Schmidt-Hertha,False,Weiterbildungsforschung,,Bildung & Erziehungswissenschaft
+623,Lars,Hoffmann,Lars Hoffmann,False,Bildungsqualität,,Bildung & Erziehungswissenschaft
+624,Marko,Neumann,Marko Neumann,False,Schulforschung,,Bildung & Erziehungswissenschaft
+625,Pauline,Schröter,Pauline Schröter,False,Fachdidaktik,,Fachdidaktiken
+626,Alexander,Groß,Alexander Groß,True,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+627,Nina,Hogrebe,Nina Hogrebe,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+628,Johanna,Mierendorff,Johanna Mierendorff,False,Kindheits- und Jugendforschung,,Soziologie & Gesellschaft
+629,Gesine,Nebe,Gesine Nebe,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+630,Stefan,Schulder,Stefan Schulder,False,Sozialstrukturanalyse,,Soziologie & Gesellschaft
+631,Anna,Schmidt,Anna Pomykaj,False,Frühkindliche Bildung,Pomykaj,Bildung & Erziehungswissenschaft
+632,Mathias,Vogelsanger-Holenstein,Mathias Holenstein,False,Fachdidaktik,Holenstein,Fachdidaktiken
+633,Georg,Bruckmaier,Georg Bruckmaier,False,Mathematikdidaktik,,Fachdidaktiken
+634,Alexander,Grob,Alexander Grob,False,Entwicklungspsychologie,,Psychologie
+635,Anne Christine,Holtmann,Anne Christine Holtmann,False,Ausbildung und Arbeitsmarkt,,Ökonomie & Arbeitsmarkt
+636,Christoph,Homuth,Christoph Homuth,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+637,Irina,Hondralis,Irina Hondralis,False,Datenmanagement,,Forschungsmanagement
+638,Judith C.,Horlboge,Judith C. Horlboge,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+639,Tobias C.,Stubbe,Tobias C. Stubbe,False,Quantitative Methoden der Sozialwissenschaften,,Methoden & Statistik
+640,Ariane S.,Willems,Ariane S. Willems,False,Schulforschung,,Bildung & Erziehungswissenschaft
+641,Till,Hovestadt,Till Hovestadt,False,Soziologie der Ungleichheit,,Soziologie & Gesellschaft
+642,Wei,Huang,Wei Huang,False,Entwicklungspsychologie,,Psychologie
+643,Helen,Wareham,Helen Wareham,False,Quantitative Methoden,,Methoden & Statistik
+644,James,Law,James Law,False,Logopädie,,Psychologie
+645,Jan,Hochweber,Jan Hochweber,False,Pädagogische Psychologie,,Psychologie
+646,Jennifer,Meyer,Jennifer Meyer,False,KI-Einsatz in der Bildung,,"Medien, Digitalisierung & Technik"
+647,Helen M. G.,Watt,Helen M. G. Watt,False,Pädagogische Psychologie,,Psychologie
+648,Thorsten,Fahrbach,Thorsten Fahrbach,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+649,Andreas,Lachner,Andreas Lachner,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+650,Ronny,Scherer,Ronny Scherer,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+651,Julia,Hufnagl,Julia Hufnagl,False,Wirtschaftspädagogik,,Bildung & Erziehungswissenschaft
+652,Christian,Hunkler,Christian Hunkler,False,Survey-Methodologie,,Methoden & Statistik
+653,Jasper,Tjaden,Jasper Tjaden,False,Migrationsforschung,,Migration & Integration
+654,Franziska,Hürlimann,Franziska Hürlimann,False,Bildungswissenschaft,,Bildung & Erziehungswissenschaft
+655,Daniel,Schmerse,Daniel Schmerse,False,Frühkindliche Entwicklung,,Psychologie
+656,Jan Marten,Ihme,Jan Marten Ihme,False,Psychologie,,Psychologie
+657,Martin,Senkbeil,Martin Senkbeil,False,Pädagogische Psychologie,,Psychologie
+658,Anne,Israel,Anne Israel,False,Pädagogische Psychologie,,Psychologie
+659,Jenny,Wagner,Jenny Wagner,False,Pädagogische Psychologie,,Psychologie
+660,Alexandra,Jähnert,Alexandra Jähnert,True,Frühe Bildung,,Bildung & Erziehungswissenschaft
+661,Susanne,Lochner,Susanne Lochner,True,Frühe Bildung,,Bildung & Erziehungswissenschaft
+662,Merlind,Trepesch,Merlind Trepesch,False,Studienmanagement,,Forschungsmanagement
+663,Aleksander,Kocaj,Aleksander Kocaj,False,Sonderpädagogik,,Bildung & Erziehungswissenschaft
+664,McKayla,Jensen,McKayla Jensen,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+665,Shana L.,Pribesh,Shana L. Pribesh,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+666,Christoph,Jindra,Christoph Jindra,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+667,Karoline A.,Sachse,Karoline A. Sachse,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+668,Martin,Hecht,Martin Hecht,False,Survey-Design,,Methoden & Statistik
+669,Mieke,Johannsen,Mieke Johannsen,False,Pädagogische Psychologie,,Psychologie
+670,Verena,Jörg,Verena Jörg,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+671,Ulrike,Hartmann,Ulrike Hartmann,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+672,Franziska,Baier-Mosch,Franziska Baier-Mosch,False,Pädagogische Psychologie,,Psychologie
+673,Mareike,Kunter,Mareike Kunter,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+674,Regina,Jusri,Regina Jusri,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+675,Jana,Kähler,Jana Kähler,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+676,Frank,Kalter,Frank Kalter,False,Migrationsforschung,,Migration & Integration
+677,Daniel A,Kamhöfer,Daniel A Kamhöfer,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+678,Hendrik,Schmitz,Hendrik Schmitz,False,Gesundheitsökonomik,,Ökonomie & Arbeitsmarkt
+679,Matthias,Westphal,Matthias Westphal,False,Mikroökonomik,,Ökonomie & Arbeitsmarkt
+681,Nicole,Haag,Nicole Haag,False,Pädagogische Psychologie,,Psychologie
+682,Helene,Wagner,Helene Wagner,False,Fachdidaktik,,Fachdidaktiken
+683,Claudia,Karwath,Claudia Karwath,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+684,Rosemarie,Kay,Rosemarie Kay,False,Fachkräfteforschung,,Ökonomie & Arbeitsmarkt
+685,Stefan,Schneck,Stefan Schneck,False,Mittelstandsforschung,,Ökonomie & Arbeitsmarkt
+686,Olga,Suprinovič,Olga Suprinovič,False,Mittelstandsforschung,,Ökonomie & Arbeitsmarkt
+687,Sylvia,Keim-Klärner,Sylvia Keim-Klärner,False,Familienforschung,,Soziologie & Gesellschaft
+688,Andreas,Klärner,Andreas Klärner,False,Soziale und räumliche Ungleichheiten,,Geographie
+689,André,Knabe,André Knabe,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+690,Peter A.,Berger,Peter A. Berger,False,Sozialstrukturanalyse,,Soziologie & Gesellschaft
+691,Christoph,Kiefer,Christoph Kiefer,False,Survey-Methodologie,,Methoden & Statistik
+692,Anna M.,Claus,Anna M. Claus,False,Personalpsychologie,,Psychologie
+693,Alexander J.,Jung,Alexander J. Jung,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+694,Bettina S.,Wiese,Bettina S. Wiese,False,Personal- und Organisationspsychologie,,Psychologie
+695,Axel,Mayer,Axel Mayer,False,Psychologische Methoden,,Methoden & Statistik
+696,Yves,Rosseel,Yves Rosseel,False,Datenanalyse,,Methoden & Statistik
+697,David,Kiss,David Kiss,False,Arbeitsökonomik,,Ökonomie & Arbeitsmarkt
+698,Daniel,Klein,Daniel Klein,False,Empirische Methoden,,Methoden & Statistik
+699,Martin,Neugebauer,Martin Neugebauer,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+700,Kai,Rompczyk,Kai Rompczyk,False,Sozialstrukturanalyse,,Soziologie & Gesellschaft
+701,Gundula,Zoch,Gundula Zoch,False,Soziologie,,Soziologie & Gesellschaft
+702,Ruben,Kleinkorres,Ruben Kleinkorres,False,Psychologische Methoden,,Methoden & Statistik
+703,Justine,Stang‐Rabrig,Justine Stang‐Rabrig,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+704,Shweta,Mishra,Shweta Mishra,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+705,Lars,Müller,Lars Müller,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+706,Dennis,Klinkhammer,Dennis Klinkhammer,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+707,Julia,Rüther,Julia Rüther,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+708,Michael,Schemmann,Michael Schemmann,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+709,Christiane,Große,Christiane Große,False,Survey-Management,,Forschungsmanagement
+710,Michael C.,Knaus,Michael C. Knaus,False,Ökonometrie,,Ökonomie & Arbeitsmarkt
+711,Tobias,Koberg,Tobias Koberg,False,Survey-Methodologie,,Methoden & Statistik
+712,Martin J.,Koch,Martin J. Koch,False,Medienpsychologie,,"Medien, Digitalisierung & Technik"
+713,Werner,Greve,Werner Greve,False,Entwicklungspsychologie,,Psychologie
+714,Kristin,Kersten,Kristin Kersten,False,Psycholinguistik,,Psychologie
+715,Jonathan,Kohl,Jonathan Kohl,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+716,Carmen,Köhler,Carmen Köhler,False,Survey-Methodologie,,Methoden & Statistik
+717,Markus,Kohlmeier,Markus Kohlmeier,False,Migrationssoziologie,,Migration & Integration
+718,Marion,Fischer-Neumann,Marion Fischer-Neumann,False,Migrationsforschung,,Migration & Integration
+719,Ingrid,Koller,Ingrid Koller,False,Psychologische Forschungsmethoden,,Methoden & Statistik
+720,Wolfgang,Wiedermann,Wolfgang Wiedermann,False,Quantitative Psychologie,,Psychologie
+721,Alexander,Eye,Alexander Eye,False,Statistische Methoden,,Methoden & Statistik
+722,Dirk,Konietzka,Dirk Konietzka,False,Sozialstrukturanalyse,,Soziologie & Gesellschaft
+723,Okka,Zimmermann,Okka Zimmermann,False,Familienforschung,,Soziologie & Gesellschaft
+724,Silvia,Kopecny,Silvia Kopecny,False,Arbeitsmarktsoziologie,,Ökonomie & Arbeitsmarkt
+725,Stephan,Köppe,Stephan Köppe,False,Wohlfahrtsstaatsforschung,,Soziologie & Gesellschaft
+726,Megan,Curran,Megan Curran,False,Armutsforschung,,Soziologie & Gesellschaft
+727,Iñigo,Aldama,Iñigo Aldama,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+728,Christian,Kosel,Christian Kosel,False,Kognitive Psychologie,,Psychologie
+729,Ellu,Saar,Ellu Saar,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+730,Johanna,Dämmrich,Johanna Dämmrich,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+731,Nancy,Kracke,Nancy Kracke,False,Bildungsverläufe,,Bildung & Erziehungswissenschaft
+732,Malte,Reichelt,Malte Reichelt,False,Computational Social Science,,"Medien, Digitalisierung & Technik"
+733,Anica,Kramer,Anica Kramer,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+734,Jochen,Kramer,Jochen Kramer,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+735,Eva,Thomm,Eva Thomm,False,Kognitive Psychologie,,Psychologie
+736,Kerstin,Oschatz-Grant,Kerstin Oschatz-Grant,False,Lern-Lehr-Forschung,,Bildung & Erziehungswissenschaft
+737,Rainer,Bromme,Rainer Bromme,False,Pädagogische Psychologie,,Psychologie
+738,Anna,Gronostaj,Anna Gronostaj,False,Schulforschung,,Bildung & Erziehungswissenschaft
+739,Annelie,Schulze,Annelie Schulze,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+740,Miriam,Vock,Miriam Vock,False,Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+741,Gerrit,Müller,Gerrit Müller,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+742,Gisela,Will,Gisela Will,False,Migrationsforschung,,Migration & Integration
+743,Julia,Offenhammer-Tuppat,Julia Tuppat,False,Gesundheitssoziologie,Tuppat,Soziologie & Gesellschaft
+744,Raffaela,Gentile,Raffaela Gentile,False,Migrationsforschung,,Migration & Integration
+745,Hanna,Reichelt,Hanna Reichelt,False,Migrationsforschung,,Migration & Integration
+746,Thomas,Kruppe,Thomas Kruppe,False,Berufsforschung,,Ökonomie & Arbeitsmarkt
+747,Christopher,Osiander,Christopher Osiander,False,Forschungskoordination,,Forschungsmanagement
+748,Dennis Oliver,Kubitza,Dennis Oliver Kubitza,False,Ausbildungsforschung,,Ökonomie & Arbeitsmarkt
+749,Daniel,Kuehnle,Daniel Kuehnle,False,Gesundheitsökonomik,,Ökonomie & Arbeitsmarkt
+750,Michael,Oberfichtner,Michael Oberfichtner,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+751,Tanja,Kutscher,Tanja Kutscher,False,Methodenentwicklung,,Methoden & Statistik
+752,Amelie,Labsch,Amelie Labsch,False,Inklusionsforschung,,Bildung & Erziehungswissenschaft
+753,Monja,Schmitt,Monja Schmitt,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+754,Marianne,Schüpbach,Marianne Schüpbach,False,Schul- und Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+755,Marina,Lagemann,Marina Lagemann,False,Schulforschung,,Bildung & Erziehungswissenschaft
+756,Peter,Winker,Peter Winker,False,Rechnergestützte Statistik und Ökonometrie,,Ökonomie & Arbeitsmarkt
+757,Martina,Baumann,Martina Baumann,False,Survey-Methodik,,Methoden & Statistik
+758,Jennifer,Lambrecht,Jennifer Lambrecht,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+759,Katja,Bogda,Katja Bogda,False,Pädagogische Psychologie,,Psychologie
+760,Helvi,Koch,Helvi Koch,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+761,Guido,Nottbusch,Guido Nottbusch,False,Grundschuldidaktik,,Fachdidaktiken
+762,Nadine,Spörer,Nadine Spörer,False,Grundschulpädagogik,,Bildung & Erziehungswissenschaft
+763,Christiane,Lange-Küttner,Christiane Lange-Küttner,False,Pädagogische Psychologie,,Psychologie
+764,Sarah Désirée,Lange,Sarah Désirée Lange,False,Schulforschung,,Bildung & Erziehungswissenschaft
+765,Nanine,Lilla,Nanine Lilla,False,Grundschulpädagogik,,Bildung & Erziehungswissenschaft
+766,Julia,Göpel,Julia Göpel,False,Wissenschaftskommunikation,,Forschungsmanagement
+767,Daniel,Danner,Daniel Danner,False,Psychologische Diagnostik,,Methoden & Statistik
+768,Ai,Miyamoto,Ai Miyamoto,False,Pädagogische Psychologie,,Psychologie
+769,Thomas,Knopf,Thomas Knopf,False,Bildungspsychologie,,Bildung & Erziehungswissenschaft
+770,Jens,Bender,Jens Bender,False,Survey-Methodologie,,Methoden & Statistik
+771,Nikolas,Leichner,Nikolas Leichner,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+772,Charlotte,Ottenstein,Charlotte Ottenstein,False,Survey-Methodologie,,Methoden & Statistik
+773,Susanne,Weis,Susanne Weis,False,Methodologie,,Methoden & Statistik
+774,Manfred,Schmitt,Manfred Schmitt,False,Persönlichkeitspsychologie,,Psychologie
+775,Tanja,Lischetzke,Tanja Lischetzke,False,Psychologische Diagnostik,,Methoden & Statistik
+776,Jan,Lenhart,Jan Lenhart,False,Pädagogische Psychologie,,Psychologie
+777,Tobias,Richter,Tobias Richter,False,Medizinische Soziologie,,Soziologie & Gesellschaft
+778,Raymond A.,Mar,Raymond A. Mar,False,Kognitive Psychologie,,Psychologie
+779,Philipp M.,Lersch,Philipp M. Lersch,False,Lebensverlaufsforschung,,Demographie & Lebensverlauf
+780,Wiebke,Schulz,Wiebke Schulz,False,Lebensverlaufsforschung,,Demographie & Lebensverlauf
+781,George,Leckie,George Leckie,False,Survey-Statistik,,Methoden & Statistik
+783,Mark,Levels,Mark Levels,False,Soziologie,,Soziologie & Gesellschaft
+784,Craig,Holmes,Craig Holmes,False,Arbeitsökonomik,,Ökonomie & Arbeitsmarkt
+785,Hirofumi,Taki,Hirofumi Taki,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+786,Janine,Jongbloed,Janine Jongbloed,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+787,Tim Futing,Liao,Tim Futing Liao,False,Statistische Methodologie,,Methoden & Statistik
+788,Sebastian,Thürer,Sebastian Thürer,False,Schulpädagogik,,Bildung & Erziehungswissenschaft
+789,Wim,Nieuwenboom,Wim Nieuwenboom,False,Grundschulpädagogik,,Bildung & Erziehungswissenschaft
+790,Misun,Lim,Misun Lim,False,Familiensoziologie,,Soziologie & Gesellschaft
+791,Daniel,Mann,Daniel Mann,False,Grundschulpädagogik,,Bildung & Erziehungswissenschaft
+794,Yi,Wang,Yi Wang,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+795,Kristina,Lindemann,Kristina Lindemann,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+796,Markus,Gangl,Markus Gangl,False,Erwerbsverlauf,,Ökonomie & Arbeitsmarkt
+797,Katharina-Theresa,Lindner,Katharina-Theresa Lindner,False,Schul- und Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+798,Martin,Baethge,Martin Baethge,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+799,Franziska,Locher,Franziska Locher,False,Pädagogische Psychologie,,Psychologie
+800,Maximilian,Pfost,Maximilian Pfost,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+801,Sarah,Becker,Sarah Becker,False,Soziale Ungleichheitsforschung,,Soziologie & Gesellschaft
+802,Christian,Lohmann,Christian Lohmann,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+803,Sina,Ike,Sina Ike,False,Ökonometrie,,Ökonomie & Arbeitsmarkt
+804,Lea Maria,Dammann,Lea Maria Dammann,False,Datenwissenschaft,,"Medien, Digitalisierung & Technik"
+805,Benjamin,Säfken,Benjamin Säfken,False,Angewandte Statistik,,Methoden & Statistik
+806,Alexander,Silbersdorff,Alexander Silbersdorff,False,Statistik und Ökonometrie,,Ökonomie & Arbeitsmarkt
+807,Christian,Lorenz,Christian Lorenz,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+808,Nicole,Birnbaum,Nicole Luplow,False,Bildungssoziologie,Luplow,Bildung & Erziehungswissenschaft
+809,Carina,Schönmoser,Carina Schönmoser,False,Schulpädagogik,,Bildung & Erziehungswissenschaft
+810,Yvonne,Lott,Yvonne Lott,False,Geschlechterforschung,,Soziologie & Gesellschaft
+811,Andreas,Hövermann,Andreas Hövermann,False,Arbeitssoziologie,,Ökonomie & Arbeitsmarkt
+812,Paul Severin,Löwe,Paul Severin Löwe,False,Familiensoziologie,,Soziologie & Gesellschaft
+813,Monique,Löwe,Monique Löwe,False,Geschlechterforschung,,Soziologie & Gesellschaft
+814,Ulf,Rinne,Ulf Rinne,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+815,Hendrik,Sonnabend,Hendrik Sonnabend,False,Angewandte Mikroökonomik,,Ökonomie & Arbeitsmarkt
+816,Xiaobin,Chen,Xiaobin Chen,False,KI im Bildungsbereich,,"Medien, Digitalisierung & Technik"
+817,Wolfgang,Ludwig-Mayerhofer,Wolfgang Ludwig-Mayerhofer,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+818,Nico,Stawarz,Nico Stawarz,False,Migrationsforschung,,Migration & Integration
+819,Rosine,Edelstein,Rosine Edelstein,False,Integration,,Migration & Integration
+820,Ellen,Ebralidze,Ellen Ebralidze,False,Quantitative Methoden,,Methoden & Statistik
+822,Jessica,Ordemann,Jessica Ordemann,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+823,Stefan,Schulz,Stefan Schulz,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+824,Heinz Ulrich,Brinkmann,Heinz Ulrich Brinkmann,True,Arbeitssoziologie,,Ökonomie & Arbeitsmarkt
+825,Marita,Jacob,Marita Jacob,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+826,Ramsey,Wise,Ramsey Wise,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+827,Christina,Klug,Christina Klug,False,Kindheits- und Jugendforschung,,Soziologie & Gesellschaft
+828,Silke,Martin,Silke Martin,False,Kommunikations- und Medienwissenschaft,,"Medien, Digitalisierung & Technik"
+829,Sabine,Maschke,Sabine Maschke,False,Erziehungswissenschaft,,Bildung & Erziehungswissenschaft
+830,Sönke Hendrik,Matthewes,Sönke Hendrik Matthewes,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+831,Benedikt,Langenberg,Benedikt Langenberg,False,Survey-Methodologie,,Methoden & Statistik
+832,Florian,Lemmerich,Florian Lemmerich,False,Computational Social Science,,"Medien, Digitalisierung & Technik"
+833,Heinz G.,Holtappels,Heinz G. Holtappels,True,Schulentwicklung,,Bildung & Erziehungswissenschaft
+834,Johannes,Hasselhorn,Johannes Hasselhorn,True,Fachdidaktik,,Fachdidaktiken
+835,Annika,Ohle-Peters,Annika Ohle-Peters,True,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+836,Ramona,Lorenz,Ramona Lorenz,True,Schul- und Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+837,Hanna,Gaspard,Hanna Gaspard,True,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+838,Charlotte Christine,Dignath,Charlotte Christine Dignath,True,Pädagogische Psychologie,,Psychologie
+839,Sabrina,König,Sabrina König,True,Psychologie,,Psychologie
+840,Rahim,Schaufelberger,Rahim Schaufelberger,True,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+841,Birgit,Heppt,Birgit Heppt,True,Sprachbildung,,Fachdidaktiken
+842,Alexander,Naumann,Alexander Naumann,True,Survey-Methodologie,,Methoden & Statistik
+843,Patricia,McMullin,Patricia McMullin,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+844,Aleksi,Karhula,Aleksi Karhula,False,Bildungsungleichheiten,,Bildung & Erziehungswissenschaft
+845,Jani,Erola,Jani Erola,False,Soziologie,,Soziologie & Gesellschaft
+846,Emilija,Meier-Faust,Emilija Meier-Faust,False,Kindheits- und Jugendforschung,,Soziologie & Gesellschaft
+847,Rainer,Watermann,Rainer Watermann,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+848,Yannick,Martin,Yannick Martin,False,Schulforschung,,Bildung & Erziehungswissenschaft
+849,Annabell,Daniel,Annabell Daniel,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+850,Susanne,Bergann,Susanne Bergann,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+851,Katharina,Meitinger,Katharina Meitinger,False,Survey-Methodologie,,Methoden & Statistik
+852,Sven,Stadtmüller,Sven Stadtmüller,False,Survey-Design,,Methoden & Statistik
+853,Henning,Silber,Henning Silber,False,Survey-Methodologie,,Methoden & Statistik
+854,Michael,Blohm,Michael Blohm,False,Survey-Methodologie,,Methoden & Statistik
+855,Michael,Bergmann,Michael Bergmann,False,Survey-Methodologie,,Methoden & Statistik
+856,Manuela,Blumenberg,Manuela Blumenberg,False,Wahlforschung,,Politikwissenschaft
+857,Pablo,Christmann,Pablo Christmann,False,Survey-Methodologie,,Methoden & Statistik
+858,Barbara,Felderer,Barbara Felderer,False,Survey-Methodologie,,Methoden & Statistik
+859,Corinna,Frodermann,Corinna Frodermann,False,Geschlechterforschung,,Soziologie & Gesellschaft
+860,Florian,Griese,Florian Griese,False,Survey-Management,,Forschungsmanagement
+861,Tobias,Gummer,Tobias Gummer,False,Familienforschung,,Soziologie & Gesellschaft
+862,Achim,Koch,Achim Koch,False,Survey-Methodologie,,Methoden & Statistik
+863,Anita,Kottwitz,Anita Kottwitz,False,Lebensverlaufsforschung,,Demographie & Lebensverlauf
+864,Kristina,Krell,Kristina Krell,False,Soziologie,,Soziologie & Gesellschaft
+865,Ulrich,Krieger,Ulrich Krieger,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+866,Elisabeth,Liebau,Elisabeth Liebau,False,Migrationsforschung,,Migration & Integration
+867,André,Müller-Kuller,André Müller-Kuller,False,Studienmanagement,,Forschungsmanagement
+868,Ines,Schaurer,Ines Schaurer,False,Survey-Methodologie,,Methoden & Statistik
+869,Annette,Scherpenzeel,Annette Scherpenzeel,False,Survey-Methodologie,,Methoden & Statistik
+870,Claudia,Schmiedeberg,Claudia Schmiedeberg,False,Familiensoziologie,,Soziologie & Gesellschaft
+871,Tobias,Schmidt,Tobias Schmidt,False,Haushaltsökonomik,,Ökonomie & Arbeitsmarkt
+872,Christian,Schnaudt,Christian Schnaudt,False,Politisches Verhalten,,Politikwissenschaft
+873,Sascha,Verhoeven,Sascha Verhoeven,False,Sozialwissenschaften,,Soziologie & Gesellschaft
+874,Anouk,Zabal,Anouk Zabal,False,Sozialwissenschaften,,Soziologie & Gesellschaft
+875,Alice,Melchior,Alice Melchior,False,Digitalisierung,,"Medien, Digitalisierung & Technik"
+876,Julia,Gerick,Julia Gerick,False,Schulpädagogik,,Bildung & Erziehungswissenschaft
+877,Thorsten,Euler,Thorsten Euler,False,Survey-Methodologie,,Methoden & Statistik
+878,Malte,Sandner,Malte Sandner,False,Data Science,,"Medien, Digitalisierung & Technik"
+879,Lukas,Mergele,Lukas Mergele,False,Mikroökonomik,,Ökonomie & Arbeitsmarkt
+880,Johanna,Raith,Johanna Raith,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+881,Jasmin,Meyer,Jasmin Meyer,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+882,Susanne,Strauss,Susanne Strauss,False,Geschlechtersoziologie,,Soziologie & Gesellschaft
+883,Stefanie,Findeisen,Stefanie Findeisen,False,Wirtschaftspädagogik,,Bildung & Erziehungswissenschaft
+884,Maria,Richter,Maria Richter,False,Bildungs- und Arbeitsmarktsoziologie,,Ökonomie & Arbeitsmarkt
+885,Karoline,Mikus,Karoline Mikus,False,Soziologie,,Soziologie & Gesellschaft
+886,Nicole,Tieben,Nicole Tieben,False,Soziologie,,Soziologie & Gesellschaft
+887,Ralf,Minor,Ralf Minor,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+888,Ellen,Winkler,Ellen Winkler,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+889,Sog Yee,Mok,Sog Yee Mok,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+890,Markus P.,Neuenschwander,Markus P. Neuenschwander,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+891,Katharina,Molitor,Katharina Molitor,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+892,Kathrin,Thums,Kathrin Thums,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+895,Walter,Müller,Walter Müller,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+896,Sonja,Meixner,Sonja Meixner,False,Survey-Methodologie,,Methoden & Statistik
+897,Manuel,Munz,Manuel Munz,False,Survey-Methodologie,,Methoden & Statistik
+898,Knut,Wenzig,Knut Wenzig,False,Dateninfrastruktur,,Forschungsmanagement
+899,Michael,Mutz,Michael Mutz,False,Sozialwissenschaften des Sports,,Soziologie & Gesellschaft
+900,Max,Nachbauer,Max Nachbauer,False,Schul- und Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+901,Leonidas,Kyriakides,Leonidas Kyriakides,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+902,Sandra,Gilgen,Sandra Gilgen,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+903,Wolfgang,Schneider,Wolfgang Schneider,False,Pädagogische Psychologie und Entwicklungspsychologie,,Psychologie
+904,Oliver,Klein,Oliver Klein,False,Integrationsforschung,,Migration & Integration
+905,Miriam,Schmaus,Miriam Schmaus,False,Migrationsforschung,,Migration & Integration
+906,Wenke,Niehues,Wenke Niehues,False,Migrationsforschung,,Migration & Integration
+907,Yasemin,Kisbu-Sakarya,Yasemin Kisbu-Sakarya,False,Psychologie,,Psychologie
+908,Bilge,Selcuk,Bilge Selcuk,False,Entwicklungspsychologie,,Psychologie
+909,Désirée,Nießen,Désirée Nießen,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+910,Marion,Spengler,Marion Spengler,False,Differentielle Psychologie,,Psychologie
+911,Ingrid,Schoon,Ingrid Schoon,False,Soziale Ungleichheit im Karriereverlauf,,Soziologie & Gesellschaft
+912,Annika,Nissen,Annika Nissen,False,Betriebswirtschaftslehre,,Ökonomie & Arbeitsmarkt
+913,Malgorzata,Lipowska,Malgorzata Lipowska,False,Entwicklungspsychologie,,Psychologie
+914,Katharina,Nuss,Katharina Nuss,False,Kulturelle Bildung,,Bildung & Erziehungswissenschaft
+915,Pia,Schrot,Pia Schrot,False,Soziologie,,Soziologie & Gesellschaft
+916,Natalie,Obergruber,Natalie Obergruber,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+917,Fabian,Ochsenfeld,Fabian Ochsenfeld,False,Wirtschaftssoziologie,,Ökonomie & Arbeitsmarkt
+918,Melike,Ömeroğulları,Melike Ömeroğulları,False,Schul- und Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+919,Michaela,Gläser-Zikuda,Michaela Gläser-Zikuda,False,Empirische Unterrichtsforschung,,Bildung & Erziehungswissenschaft
+920,Niamh,Oeri,Niamh Oeri,False,Entwicklungspsychologie,,Psychologie
+921,Gabriel,Olaru,Gabriel Olaru,False,Differentielle Psychologie,,Psychologie
+922,Alexander,Robitzsch,Alexander Robitzsch,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+923,Andrea,Hildebrandt,Andrea Hildebrandt,False,Psychologische Methoden und Statistik,,Methoden & Statistik
+924,Hannah,Glinka,Hannah Glinka,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+925,Katharina,Werner,Katharina Werner,False,Angewandte Ökonometrie,,Ökonomie & Arbeitsmarkt
+926,Anna,Volodina,Anna Volodina,False,Germanistik,,Fachdidaktiken
+927,Franziska,Cohen,Franziska Cohen,False,Kindheitspädagogik,,Bildung & Erziehungswissenschaft
+928,Katrin,Wolf,Katrin Wolf,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+929,Judith,Grützmacher,Judith Grützmacher,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+931,Derya,Özbağcı,Derya Özbağcı,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+932,Jonas,Breetzke,Jonas Breetzke,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+933,Carla,Bohndick,Carla Bohndick,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+934,Lidia,Panico,Lidia Panico,False,Demografie,,Demographie & Lebensverlauf
+935,Qianqian,Pan,Qianqian Pan,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+936,Frank,Reichert,Frank Reichert,False,Politische Bildung,,Politikwissenschaft
+937,Qianru,Liang,Qianru Liang,False,Survey-Methoden,,Methoden & Statistik
+938,Jimmy,De La Torre,Jimmy De La Torre,False,Survey-Methodologie,,Methoden & Statistik
+939,Nancy,Law,Nancy Law,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+940,Giampiero,Passaretta,Giampiero Passaretta,False,Soziologie,,Soziologie & Gesellschaft
+941,Thomas,Van Huizen,Thomas Van Huizen,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+942,Gabriele,Wydra-Somaggio,Gabriele Wydra-Somaggio,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+943,Sabine,Pfeiffer,Sabine Pfeiffer,True,Arbeits- und Techniksoziologie,,"Medien, Digitalisierung & Technik"
+944,Manuel,Nicklich,Manuel Nicklich,True,Personalpolitik,,Ökonomie & Arbeitsmarkt
+945,Michael,Henke,Michael Henke,True,Unternehmenslogistik,,Ökonomie & Arbeitsmarkt
+946,Martina,Heßler,Martina Heßler,True,Technikgeschichte,,"Medien, Digitalisierung & Technik"
+947,Martin,Krzywdzinski,Martin Krzywdzinski,True,Arbeitssoziologie,,Ökonomie & Arbeitsmarkt
+948,Ingo,Schulz-Schaeffer,Ingo Schulz-Schaeffer,True,Techniksoziologie,,"Medien, Digitalisierung & Technik"
+949,Annelies G.,Blom,Annelies G. Blom,False,Survey-Methodologie,,Methoden & Statistik
+950,Barbara,Erdel,Barbara Erdel,False,Arbeitsmarktforschung,,Ökonomie & Arbeitsmarkt
+951,Mathis,Fräßdorf,Mathis Fräßdorf,False,Datenmanagement,,Forschungsmanagement
+952,Kristin,Hajek,Kristin Hajek,False,Familiensoziologie,,Soziologie & Gesellschaft
+953,Susanne,Helmschrott,Susanne Helmschrott,False,Survey-Methodologie,,Methoden & Statistik
+954,Martin,Kroh,Martin Kroh,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+955,Denise,Saßenroth,Denise Saßenroth,False,Survey-Methodologie,,Methoden & Statistik
+956,Eva-Maria,Trüdinger,Eva-Maria Trüdinger,False,Empirische Demokratieforschung,,Politikwissenschaft
+957,Tobias,Rausch,Tobias Rausch,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+958,Irene M.,Schiefer,Irene M. Schiefer,False,Empirische Bildungsforschung,Schurtz,Bildung & Erziehungswissenschaft
+959,Julia,Philipp,Julia Philipp,False,Geschlechterforschung,,Soziologie & Gesellschaft
+960,Ilaria,Pietropoli,Ilaria Pietropoli,False,Soziologie,,Soziologie & Gesellschaft
+961,Irena,Pietrzyk,Irena Pietrzyk,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+962,Anne,Piezunka,Anne Piezunka,False,Soziale Arbeit,,Soziologie & Gesellschaft
+963,Michael,Wrase,Michael Wrase,False,Bildungs- und Sozialrecht,,Bildung & Erziehungswissenschaft
+964,Anna,Kroth,Anna Kroth,False,Übergänge im Lebensverlauf,,Demographie & Lebensverlauf
+965,Anna,Südkamp,Anna Südkamp,False,Kompetenzforschung,,Bildung & Erziehungswissenschaft
+966,Katinka,Hardt,Katinka Hardt,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+967,Stefanie,Kley,Stefanie Kley,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+968,Gregor,Bongaerts,Gregor Bongaerts,False,Soziologie,,Soziologie & Gesellschaft
+969,Albert,Scherr,Albert Scherr,False,Soziologie,,Soziologie & Gesellschaft
+970,Marcel,Erlinghagen,Marcel Erlinghagen,False,Empirische Sozialstrukturanalyse,,Soziologie & Gesellschaft
+971,Bernhard,Schäfers,Bernhard Schäfers,False,Sozialstrukturanalyse,,Soziologie & Gesellschaft
+972,Joachim,Renn,Joachim Renn,False,Soziologie,,Soziologie & Gesellschaft
+973,Dariuš,Zifonun,Dariuš Zifonun,False,Migrationsforschung,,Migration & Integration
+974,Marcela,Guarjardo,Marcela Pozas,False,Inklusive Bildung,Pozas,Bildung & Erziehungswissenschaft
+975,Gesine,Jordan,Gesine Jordan,False,Sozialpsychologie,,Psychologie
+976,Verena,Letzel-Alt,Verena Letzel-Alt,False,Sonderpädagogik,Letzel,Bildung & Erziehungswissenschaft
+977,Christoph,Schneider,Christoph Schneider,False,Diagnostik,,Methoden & Statistik
+978,Johanna Sophie,Quis,Johanna Sophie Quis,False,Gesundheitsökonomik,,Ökonomie & Arbeitsmarkt
+979,Lena,Roemer,Lena Roemer,False,Wirtschaftspsychologie,,Psychologie
+980,Julie,Mutschler,Julie Mutschler,False,Survey-Methodologie,,Methoden & Statistik
+981,Benjamin,Kuntz,Benjamin Kuntz,False,Public Health,,Gesundheit & Wohlbefinden
+982,Thomas,Lampert,Thomas Lampert,False,Gesundheitsmonitoring,,Gesundheit & Wohlbefinden
+983,Katharina,Loter,Katharina Loter,False,Familiensoziologie,,Soziologie & Gesellschaft
+984,Irene,Moor,Irene Moor,False,Medizinische Soziologie,,Soziologie & Gesellschaft
+985,Klaus,Hurrelmann,Klaus Hurrelmann,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+986,Ludwig,Bilz,Ludwig Bilz,False,Pädagogische Psychologie,,Psychologie
+987,Arja,Rimpelä,Arja Rimpelä,False,Public Health,,Gesundheit & Wohlbefinden
+988,Theres,Vockert,Theres Vockert,False,Public Health,,Gesundheit & Wohlbefinden
+989,Jan,Jochmaring,Jan Jochmaring,False,Rehabilitationspädagogik,,Bildung & Erziehungswissenschaft
+990,Jaana M,Kinnunen,Jaana M Kinnunen,False,Gesundheitswissenschaften,,Gesundheit & Wohlbefinden
+991,Marion,Reindl,Marion Reindl,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+992,Tanja,Auer,Tanja Auer,False,Lehr-Lern-Forschung,,Bildung & Erziehungswissenschaft
+993,Sarah,Reinhold,Sarah Reinhold,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+994,Doris,Holzberger,Doris Holzberger,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+995,Simon,Reinwald,Simon Reinwald,False,Betriebswirtschaft,,Ökonomie & Arbeitsmarkt
+996,Silvia,Annen,Silvia Annen,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+997,Kristina,Reiss,Kristina Reiss,True,Fachdidaktik,,Fachdidaktiken
+998,Mirjam,Weis,Mirjam Weis,True,Studienmanagement,,Forschungsmanagement
+999,Ilona,Relikowski,Ilona Relikowski,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+1000,Katharina,Resch,Katharina Resch,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+1001,Marvin,Reuter,Marvin Reuter,False,Medizinische Soziologie,,Soziologie & Gesellschaft
+1002,Leonie,Sundmacher,Leonie Sundmacher,False,Gesundheitsökonomie,,Ökonomie & Arbeitsmarkt
+1003,Claudia,Hövener,Claudia Hövener,False,Gesundheitsmonitoring,,Gesundheit & Wohlbefinden
+1004,Stephanie,Hoffmann,Stephanie Hoffmann,False,Gesundheitswissenschaften,,Gesundheit & Wohlbefinden
+1005,Ina-Sophie,Said,Ina-Sophie Ristau,False,Erhebungskoordination,Ristau,Forschungsmanagement
+1006,Michael,Rochnia,Michael Rochnia,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+1007,Falk,Radisch,Falk Radisch,False,Schulpädagogik,,Bildung & Erziehungswissenschaft
+1008,Claudia,Kastens,Claudia Kastens,False,Pädagogische Psychologie,,Psychologie
+1009,Kati,Trempler,Kati Trempler,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+1010,Judith,Schellenbach-Zell,Judith Schellenbach-Zell,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+1011,Alejandra,Rodríguez Sánchez,Alejandra Rodríguez Sánchez,False,Migrationsforschung,,Migration & Integration
+1012,Cavan V.,Bonner,Cavan V. Bonner,False,Psychologie,,Psychologie
+1013,Samuel D.,Gosling,Samuel D. Gosling,False,Survey-Methodologie,,Methoden & Statistik
+1014,Jeff,Potter,Jeff Potter,False,Persönlichkeitsforschung,,Psychologie
+1015,Brent W.,Roberts,Brent W. Roberts,False,Persönlichkeitsforschung,,Psychologie
+1016,Tobias,Rolfes,Tobias Rolfes,False,Fachdidaktik,,Fachdidaktiken
+1017,Anke,Lindmeier,Anke Lindmeier,False,Fachdidaktik,,Fachdidaktiken
+1018,Aiso,Heinze,Aiso Heinze,False,Fachdidaktik,,Fachdidaktiken
+1019,Lisa,Rosen,Lisa Rosen,False,Erziehungswissenschaft,,Bildung & Erziehungswissenschaft
+1020,Tobias,Roth,Tobias Roth,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+1021,Markus,Weißmann,Markus Weißmann,False,Integrationsforschung,,Migration & Integration
+1022,Thijs,Bol,Thijs Bol,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+1023,Angelika,Steinwede,Angelika Steinwede,False,Angewandte Sozialforschung,,Soziologie & Gesellschaft
+1024,Fabian,Rüter,Fabian Rüter,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+1025,Josef,Schrader,Josef Schrader,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+1026,Baljinder K.,Sahdra,Baljinder K. Sahdra,False,Pädagogische Psychologie,,Psychologie
+1027,Joseph,Ciarrochi,Joseph Ciarrochi,False,Pädagogische Psychologie,,Psychologie
+1028,Geetanjali,Basarkod,Geetanjali Basarkod,False,Pädagogische Psychologie,,Psychologie
+1029,Theresa,Dicke,Theresa Dicke,False,Pädagogische Psychologie,,Psychologie
+1030,Jiesi,Guo,Jiesi Guo,False,Pädagogische Psychologie,,Psychologie
+1031,Philip D.,Parker,Philip D. Parker,False,Pädagogische Psychologie,,Psychologie
+1032,Herbert W.,Marsh,Herbert W. Marsh,False,Pädagogische Psychologie,,Psychologie
+1033,Steffani,Saß,Steffani Saß,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+1034,Corey,Savage,Corey Savage,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+1035,Adam,Ayaita,Adam Ayaita,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+1037,Eva,Zink,Eva Zink,False,Pädagogisch-Psychologische Methoden,,Methoden & Statistik
+1038,Stephan,Abele,Stephan Abele,False,Berufspädagogik,,Bildung & Erziehungswissenschaft
+1039,Lisa,Schwarz,Lisa Schwarz,False,Sozialökonomik,,Ökonomie & Arbeitsmarkt
+1040,Meike,Bender,Meike Bender,False,Datenschutz,,Forschungsmanagement
+1041,Brigitte,Bogensperger,Brigitte Bogensperger,False,Datenschutz,,Forschungsmanagement
+1042,Sonja,Gruner,Sonja Gruner,False,Evaluation,,Methoden & Statistik
+1043,David,Schiller,David Schiller,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+1044,Henriette,Engelhardt-Wölfler,Henriette Engelhardt-Wölfler,False,Demografie,,Demographie & Lebensverlauf
+1045,Benjamin,Schimke,Benjamin Schimke,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+1046,Eyal,Bar-Haim,Eyal Bar-Haim,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+1047,Carlo,Barone,Carlo Barone,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+1048,Jesper,Fels Birkelund,Jesper Fels Birkelund,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+1049,Vikki,Boliver,Vikki Boliver,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+1050,Queralt,Capsada-Munsech,Queralt Capsada-Munsech,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+1051,Marta,Facchini,Marta Facchini,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+1052,Yariv,Feniger,Yariv Feniger,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+1053,Laura,Heiskala,Laura Heiskala,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+1054,Estelle,Herbaut,Estelle Herbaut,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+1055,Mathieu,Ichou,Mathieu Ichou,False,Migrationsforschung,,Migration & Integration
+1056,Kristian Bernt,Karlson,Kristian Bernt Karlson,False,Bildungsstratifikation,,Bildung & Erziehungswissenschaft
+1057,David,Reimer,David Reimer,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+1058,Claudia,Traini,Claudia Traini,False,Soziale Ungleichheit,,Soziologie & Gesellschaft
+1059,Louis-André,Vallet,Louis-André Vallet,False,Empirische Methoden,,Methoden & Statistik
+1060,Steffen,Zitzmann,Steffen Zitzmann,False,Quantitative Datenanalyse,,Methoden & Statistik
+1061,Thorsten,Fuchs,Thorsten Fuchs,True,Erziehungswissenschaft,,Bildung & Erziehungswissenschaft
+1062,Susanne,Schmid,Susanne Schmid,False,Familiensoziologie,,Soziologie & Gesellschaft
+1063,Mathias,Huebener,Mathias Huebener,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+1064,Malin,Mahlbacher,Malin Mahlbacher,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+1065,Margaretha,Fahrner-Müller,Margaretha Müller,False,Frühkindliche Bildung,Müller,Bildung & Erziehungswissenschaft
+1066,Andreas,Schmitz,Andreas Schmitz,False,Soziologie,,Soziologie & Gesellschaft
+1067,Sarah,Schneider,Sarah Schneider,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+1068,Katrin,Rentzsch,Katrin Rentzsch,False,Psychologische Diagnostik,,Methoden & Statistik
+1069,Thomas,Lösch,Thomas Lösch,False,Forschungsdatenmanagement,,Forschungsmanagement
+1071,Klaus,Lingel,Klaus Lingel,False,Sonderpädagogik,,Bildung & Erziehungswissenschaft
+1072,Julia,Raecke,Julia Raecke,False,Angewandte Psychologie,,Psychologie
+1073,Laura Isabel,Schoger,Laura Isabel Schoger,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+1074,Mirte,Scholten,Mirte Scholten,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+1075,Kerstin,Schörner,Kerstin Schörner,False,Bildungsentscheidugnen und soziale Ungleichheit,,Bildung & Erziehungswissenschaft
+1076,Oliver,Winkler,Oliver Winkler,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+1077,Tatjana,Taraszow,Tatjana Taraszow,False,Pädagogische Psychologie,,Psychologie
+1078,Kris,Gesner,Kris Gesner,False,Large-Scale Assessment,,Bildung & Erziehungswissenschaft
+1079,Camilla,Rjosk,Camilla Rjosk,False,Schulentwicklungsforschung,,Bildung & Erziehungswissenschaft
+1080,Axinja,Hachfeld,Axinja Hachfeld,False,Schulentwicklungsforschung,,Bildung & Erziehungswissenschaft
+1081,Alexandra,Ioannidou,Alexandra Ioannidou,True,Weiterbildungsforschung,,Bildung & Erziehungswissenschaft
+1082,Claudia,Schuchart,Claudia Schuchart,False,Lehr-Lernforschung,,Bildung & Erziehungswissenschaft
+1083,Matthias,Rürup,Matthias Rürup,False,Innovationsforschung,,Ökonomie & Arbeitsmarkt
+1084,Lars,Leszczensky,Lars Leszczensky,False,Netzwerkforschung,,Soziologie & Gesellschaft
+1085,Katja,Schuster,Katja Schuster,False,Ländliche Räume,,Geographie
+1086,Anne,Margarian,Anne Margarian,False,Regionalentwicklung,,Geographie
+1087,Jakob,Schwerter,Jakob Schwerter,False,Pädagogische Psychologie,,Psychologie
+1088,Marjolein,Fokkema,Marjolein Fokkema,False,Psychometrics,,Methoden & Statistik
+1089,Marco,Seegers,Marco Seegers,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+1090,Birgit,Zeyer-Gliozzo,Birgit Zeyer-Gliozzo,False,Sozialstrukturanalyse,,Soziologie & Gesellschaft
+1091,Arnim,Seidlitz,Arnim Seidlitz,False,Arbeitsmarktökonomie,,Ökonomie & Arbeitsmarkt
+1092,Maximilian,Seitz,Maximilian Seitz,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+1093,Dave,Möwisch,Dave Möwisch,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+1094,Diana,Steger,Diana Steger,False,Persönlichkeitspsychologie,,Psychologie
+1095,Gülbin,Şengül‐İnal,Gülbin Şengül‐İnal,False,Entwicklungspsychologie,,Psychologie
+1096,Nicolai Topstad,Borgen,Nicolai Topstad Borgen,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+1097,Ane,Nærde,Ane Nærde,False,Familienforschung,,Soziologie & Gesellschaft
+1098,Henrik Daae,Zachrisson,Henrik Daae Zachrisson,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+1099,Christian,Schöber,Christian Schöber,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+1100,Richard,Sheldrake,Richard Sheldrake,False,Empirische Bildungswissenschaft,,Bildung & Erziehungswissenschaft
+1101,Tamjid,Mujtaba,Tamjid Mujtaba,False,Methoden der empirischen Sozialforschung,,Methoden & Statistik
+1102,Michael J.,Reiss,Michael J. Reiss,False,Wissenschaftsbildung,,Bildung & Erziehungswissenschaft
+1103,Manuel,Siegert,Manuel Siegert,False,Migrationsforschung,,Migration & Integration
+1104,Rafael,Schratz,Rafael Schratz,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+1106,Georg,Besuch,Georg Besuch,False,Informatik,,"Medien, Digitalisierung & Technik"
+1107,Janina,Söhn,Janina Söhn,False,Migrationssoziologie,,Migration & Integration
+1108,Milena,Prekodravac,Milena Prekodravac,False,Integrationsforschung,,Migration & Integration
+1109,Matthias,Speidel,Matthias Speidel,False,Survey-Methodologie,,Methoden & Statistik
+1110,C. Katharina,Spieß,C. Katharina Spieß,False,Bevölkerungsökonomie,,Ökonomie & Arbeitsmarkt
+1111,Vaishali,Zambre,Vaishali Zambre,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+1112,Axel,Plünnecke,Axel Plünnecke,False,Bildungsökonomik,,Ökonomie & Arbeitsmarkt
+1113,Klaus,Schömann,Klaus Schömann,False,Lebenslanges Lernen,,Bildung & Erziehungswissenschaft
+1114,Larry V.,Hedges,Larry V. Hedges,False,Statistische Methoden,,Methoden & Statistik
+1115,Antje,Stefani,Antje Stefani,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+1116,Hannah S.,Steinberg,Hannah S. Steinberg,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+1117,Simone,Schüller,Simone Schüller,False,Familienforschung,,Soziologie & Gesellschaft
+1118,Yasmin,Öztürk,Yasmin Öztürk,False,Frühkindliche Bildung,,Bildung & Erziehungswissenschaft
+1119,Thilo,Klein,Thilo Klein,False,Quantitative Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+1120,Annika,Stein,Annika Stein,False,Familiensoziologie,,Soziologie & Gesellschaft
+1121,Elias,Naumann,Elias Naumann,False,Politische Soziologie,,Politikwissenschaft
+1122,Björn,Rohr,Björn Rohr,False,Survey-Methodologie,,Methoden & Statistik
+1123,Arne,Bethmann,Arne Bethmann,False,Survey-Methodologie,,Methoden & Statistik
+1124,Carina,Cornesse,Carina Cornesse,False,Survey-Methodologie,,Methoden & Statistik
+1125,Mustafa,Coban,Mustafa Coban,False,Survey-Methodologie,,Methoden & Statistik
+1126,Jean Philippe,Décieux,Jean Philippe Décieux,False,Migrationsforschung,,Migration & Integration
+1127,Caroline,Hahn,Caroline Hahn,False,Survey-Methodologie,,Methoden & Statistik
+1128,Oshrat,Hochman,Oshrat Hochman,False,Survey-Methodologie,,Methoden & Statistik
+1129,Johannes,Lemcke,Johannes Lemcke,False,Public Health,,Gesundheit & Wohlbefinden
+1130,Dörte,Naber,Dörte Naber,False,Interkulturelle Psychologie,,Migration & Integration
+1131,Steffen,Pötzschke,Steffen Pötzschke,False,Migrationsforschung,,Migration & Integration
+1132,Joss,Roßmann,Joss Roßmann,False,Survey-Methodologie,,Methoden & Statistik
+1133,Jan-Lucas,Schanze,Jan-Lucas Schanze,False,Studienmanagement,,Forschungsmanagement
+1134,Silke L.,Schneider,Silke L. Schneider,False,Survey-Methodologie,,Methoden & Statistik
+1135,Heike,Spangenberg,Heike Spangenberg,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+1136,Tobias,Rettig,Tobias Rettig,False,Studienmanagement,,Forschungsmanagement
+1137,Mark,Trappmann,Mark Trappmann,False,Survey-Methodologie,,Methoden & Statistik
+1138,Michael,Weinhardt,Michael Weinhardt,False,Survey-Forschung,,Methoden & Statistik
+1139,Bernd,Weiß,Bernd Weiß,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+1140,Daniel,Caro,Daniel Caro,False,Bildungsungleichheit,,Bildung & Erziehungswissenschaft
+1141,Anne,Stellmacher,Anne Stellmacher,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+1142,Bernadette,Strobel,Bernadette Strobel,False,Sozialstrukturanalyse,,Soziologie & Gesellschaft
+1143,Matthias,Studer,Matthias Studer,False,Quantitative Methoden,,Methoden & Statistik
+1144,Nele,Theuer,Nele Theuer,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+1145,Boris,Thome,Boris Thome,False,Informationssysteme,,"Medien, Digitalisierung & Technik"
+1146,Serife,Yasar,Serife Yasar,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+1147,Lukas,Jonas,Lukas Jonas,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+1148,Stefan,Conrad,Stefan Conrad,False,Data Mining,,"Medien, Digitalisierung & Technik"
+1149,Stephan L.,Thomsen,Stephan L. Thomsen,False,Empirische Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt
+1150,Anne-Kathrin,Knauf,Anne-Kathrin Knauf,False,Hochschulforschung,,Bildung & Erziehungswissenschaft
+1151,Susanne,Timm,Susanne Timm,True,Pädagogik,,Bildung & Erziehungswissenschaft
+1152,Angela,Ulrich,Angela Ulrich,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+1153,Andreas,Frey,Andreas Frey,False,Pädagogische Psychologie,,Psychologie
+1154,Jean-Jacques,Ruppert,Jean-Jacques Ruppert,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+1155,Bernd-Joachim,Ertelt,Bernd-Joachim Ertelt,False,Pädagogische Psychologie,,Psychologie
+1156,Caroline,Rau,Caroline Rau,False,Pädagogik,,Bildung & Erziehungswissenschaft
+1157,Alexander,Roppelt,Alexander Roppelt,False,Fachdidaktik,,Fachdidaktiken
+1158,Stefanie,Unger,Stefanie Unger,False,Arbeitsmarktökonomik,,Ökonomie & Arbeitsmarkt
+1159,Nurit,Viesel-Nordmeyer,Nurit Viesel-Nordmeyer,False,Sonderpädagogik,,Bildung & Erziehungswissenschaft
+1160,Ute,Ritterfeld,Ute Ritterfeld,False,Bildungs- und Gesundheitsförderung,,Bildung & Erziehungswissenschaft
+1161,Michael,Schurig,Michael Schurig,False,Soziale Inklusion,,Soziologie & Gesellschaft
+1162,Simone,Virdia,Simone Virdia,False,Quantitative Methoden,,Methoden & Statistik
+1163,Falk A. C.,Voit,Falk A. C. Voit,False,Sozialökonomik,,Ökonomie & Arbeitsmarkt
+1164,Eero,Kajantie,Eero Kajantie,False,Public Health,,Gesundheit & Wohlbefinden
+1165,Sakari,Lemola,Sakari Lemola,False,Entwicklungspsychologie,,Psychologie
+1166,Katri,Räikkönen,Katri Räikkönen,False,Entwicklungspsychologie,,Psychologie
+1167,Dieter,Wolke,Dieter Wolke,False,Pädagogische Psychologie,,Psychologie
+1168,Daniel D.,Schnitzlein,Daniel D. Schnitzlein,False,Ökonometrie,,Ökonomie & Arbeitsmarkt
+1169,Luise,Von Keyserlingk,Luise Von Keyserlingk,False,Lehr-Lern-Forschung,,Bildung & Erziehungswissenschaft
+1170,Anna-Lena,Dicke,Anna-Lena Dicke,False,Pädagogische Psychologie,,Psychologie
+1171,Jacquelynne S.,Eccles,Jacquelynne S. Eccles,False,Entwicklungspsychologie,,Psychologie
+1172,Michaela,Kropf,Michaela Kropf,False,Survey-Methodologie,,Methoden & Statistik
+1174,Ricarda,Albrecht,Ricarda Albrecht,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+1175,Anna,Bachsleitner,Anna Bachsleitner,False,Empirische Bildungsforschung,,Bildung & Erziehungswissenschaft
+1176,Josefine,Lühe,Josefine Lühe,False,Geschlechterforschung,,Soziologie & Gesellschaft
+1177,Kathrin,Jonkmann,Kathrin Jonkmann,False,Bildungspsychologie,,Bildung & Erziehungswissenschaft
+1178,Nicole,Mahler,Nicole Mahler,False,Sonderpädagogik,,Bildung & Erziehungswissenschaft
+1179,Jun,Yamashita,Jun Yamashita,False,Gesundheitssoziologie,,Soziologie & Gesellschaft
+1180,Sabine,Walper,Sabine Walper,False,Kindheits- und Jugendforschung,,Soziologie & Gesellschaft
+1181,Thorsten,Naab,Thorsten Naab,False,Medienwissenschaft,,"Medien, Digitalisierung & Technik"
+1182,Janina,Wölfl,Janina Wölfl,False,Schulpsychologie,,Psychologie
+1183,Sophia,Chabursky,Sophia Chabursky,False,Kindheits- und Jugendforschung,,Soziologie & Gesellschaft
+1184,Alexandra,Langmeyer-Tornier,Alexandra Langmeyer,False,Kindheits- und Jugendforschung,Langmeyer,Soziologie & Gesellschaft
+1185,Jan,Braukmann,Jan Braukmann,False,Sozialforschung,,Soziologie & Gesellschaft
+1186,Sebastian,Sedlmayr,Sebastian Sedlmayr,False,Kinderrechte,,Soziologie & Gesellschaft
+1187,Penelope,Watson,Penelope Watson,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+1188,Shengnan,Wang,Shengnan Wang,False,Lehrkräftebildung,,Bildung & Erziehungswissenschaft
+1189,Florian,Weber,Florian Weber,False,Migrationsforschung,,Migration & Integration
+1190,Angelina,Springer,Angelina Springer,False,Empirische Sozialforschung,,Soziologie & Gesellschaft
+1191,Franziska,Vogel,Franziska Vogel,False,Entwicklungspsychologie,,Psychologie
+1192,Felix,Weiss,Felix Weiss,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+1193,Jennifer,Weitz,Jennifer Weitz,False,Sozialforschung,,Soziologie & Gesellschaft
+1194,Jana,Welling,Jana Welling,False,Pädagogisch-Psychologische Methoden,,Methoden & Statistik
+1195,Christian,Matyas,Christian Matyas,False,Forschungsdateninfrastruktur,,Forschungsmanagement
+1196,Ingo,Barkow,Ingo Barkow,False,Forschungsdatenmanagement,,Forschungsmanagement
+1197,Marc,Rittberger,Marc Rittberger,False,Informationsinfrastrukturen,,Forschungsmanagement
+1198,Nora,Bechler,Nora Bechler,False,Pädagogische Psychologie,,Psychologie
+1199,Rebecca,Lazarides,Rebecca Lazarides,False,Schulforschung,,Bildung & Erziehungswissenschaft
+1200,Luise,Krejcik,Luise Krejcik,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+1201,Anke,Grotlüschen,Anke Grotlüschen,False,Lebenslanges Lernen,,Bildung & Erziehungswissenschaft
+1202,Alexandra,Nonnenmacher,Alexandra Nonnenmacher,False,Methoden der empirischen Sozialforschung,,Methoden & Statistik
+1203,Stephen,Reder,Stephen Reder,False,Angewandte Linguistik,,Fachdidaktiken
+1204,Johannes,Christ,Johannes Christ,False,Weiterbildungsforschung,,Bildung & Erziehungswissenschaft
+1205,Natascha,Massing,Natascha Massing,False,Erwachsenenbildung,,Bildung & Erziehungswissenschaft
+1206,Jessica A,Willard,Jessica A Willard,False,Pädagogische Psychologie,,Psychologie
+1207,Katharina,Kohl,Katharina Kohl,False,Schulforschung,,Bildung & Erziehungswissenschaft
+1208,A. Raphaela,Blumenfelder,A. Raphaela Blumenfelder,False,Bildungssoziologie,,Bildung & Erziehungswissenschaft
+1209,Victoria,Zeddies,Victoria Zeddies,False,Berufliche Bildung,,Bildung & Erziehungswissenschaft
+1210,Yuxin,Zhang,Yuxin Zhang,False,Ungleichheitsforschung,,Soziologie & Gesellschaft
+1211,Mario,Quaranta,Mario Quaranta,False,Vergleichende Politikwissenschaft,,Politikwissenschaft
+1212,Markus,Zimmermann,Markus Zimmermann,False,Amtliche Statistik,,Methoden & Statistik
+1213,Armin,Hackenberger,Armin Hackenberger,False,Wirtschaftsforschung,,Ökonomie & Arbeitsmarkt

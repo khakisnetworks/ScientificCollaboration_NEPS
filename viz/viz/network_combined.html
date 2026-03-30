@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>NEPS Ko-Autorschaftsnetzwerk</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Fira Sans', sans-serif;
+      background: #ffffff;
+    }
+    #controls {
+      position: fixed;
+      top: 15px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      background: rgba(255,255,255,0.92);
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 8px 16px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    #controls label {
+      font-size: 13px;
+      color: #555;
+    }
+    #controls select {
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      padding: 4px 8px;
+      outline: none;
+      cursor: pointer;
+      background: white;
+    }
+    #controls select:focus {
+      border-color: #E87722;
+    }
+    iframe {
+      width: 100%;
+      height: 100vh;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div id="controls">
+    <label>Zeitraum:</label>
+    <select onchange="document.getElementById('frame').src=this.value">
+      <option value="network_2015.html">2015</option>
+<option value="network_2016.html">2016</option>
+<option value="network_2017.html">2017</option>
+<option value="network_2018.html">2018</option>
+<option value="network_2019.html">2019</option>
+<option value="network_2020.html">2020</option>
+<option value="network_2021.html">2021</option>
+<option value="network_2022.html">2022</option>
+<option value="network_2023.html">2023</option>
+<option value="network_2024.html">2024</option>
+<option value="network_2025.html">2025</option>
+<option value="network_2026.html">2026</option>
+    </select>
+  </div>
+  <iframe id="frame" src="network_2015.html"></iframe>
+</body>
+</html>
